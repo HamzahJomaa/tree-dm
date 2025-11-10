@@ -1,0 +1,2889 @@
+[
+    {
+        "code": "NO.1.K.5",
+        "name": "Improve Qatar's ranking in the business environment",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "BE.2.K.3",
+                "name": "Increase new busines density to 9-16 per 1000 people",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.1.4",
+                        "name": "Design and implement reforms to enhance Qatar's business environment",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.2.5",
+                        "name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.3.2",
+                        "name": "Establish mechanisms to enable and drive continuous improvements of G2B services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "WF.6.K.1",
+                "name": "Increase the share of highly skilled expatriates in Qatar's workforce to 24%",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.7.1",
+                        "name": "Facilitate flexible types of work contracts, to attract mid- to highly skilled workforce to the private sector",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.7.2",
+                        "name": "Enhance working conditions to foster an attractive and productive working environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NO.1.K.4",
+                "name": "Position Qatar as a leading innovation-driven economy by achieving a Top 30 ranking in Global Innovation Index",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.1.3",
+                        "name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.2",
+                        "name": "Strengthen existing and introduce new RDI talent programs aligned with national priorities by expanding education pathways and enhancing supply-demand planning",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.3.2",
+                        "name": "Establish innovation-friendly regulations and set-up a mechanism for its continued development",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IE.1.K.4",
+                "name": "Increase customer satisfaction with digital services to 82%",
+                "ownership": "CGB",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IE.1.1",
+                        "name": "Transform the design and delivery of government services by strengthening and targeting central capabilities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IE.1.2",
+                        "name": "Design and launch centralized performance tracking and monitoring systems for government services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.2.K.3",
+                "name": "Elevate Qatar's logistics infrastructure and efficiency to rank among the 15 countries on LPI",
+                "ownership": "MoT",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.2.1",
+                        "name": "Create an integrated intermodal transportation value proposition through customs and connections",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.2",
+                        "name": "Improve logistics national policy-making governance (and systems) to promote integrated decision-making",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.6",
+                        "name": "Nurture innovation environment to incentivize the use of novel technologies and business models in land transportation",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.3.1",
+                        "name": "Restructure sea and air transport regulatory framework, considering privatization, to foster competition",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "FS.6.K.2",
+                "name": "Increase the share of domestic credit allocated to private companies to 77%",
+                "ownership": "QCB",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "FS.4.1",
+                        "name": "Grow digital payments through ecosystem integration to push growth in other sectors",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FS.6.1",
+                        "name": "Stimulate financing to Qatari SMEs by promoting banking and alternative financing and by launching coaching programs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FS.7.1",
+                        "name": "Enhance preventive and intervention capacity",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.1.K.3",
+                "name": "Increase the NPS/C-SAT score across foreign investor journey to >80%",
+                "ownership": "IPAQ",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "BE.1.1",
+                        "name": "Accelerate attraction of Foreign Direct Investment (FDI) into key industries in Qatar ",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.8",
+                "name": "Increase assets deployed in Qatar by national Fund of Funds to USD 350 Mn",
+                "ownership": "QIA",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "BE.4.4",
+                        "name": "Engage and empower private sector investors, including the expansion of credit facilities to a broad range of companies",
+                        "transformative": "Transformative"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.2.K.3",
+        "name": "Decrease government gross debt as a percentage of GDP from 42.4% towards 35%",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "FC.3.K.2",
+                "name": "Achieve an external general government debt / central government gross debt ratio of 50%",
+                "ownership": "MoF",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "FC.2.3",
+                        "name": "Launch and institutionalize public spending reviews",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.3.1",
+                        "name": "Enhance government debt management framework to support fiscal planning",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FC.3.2",
+                        "name": "Develop sustainable financing frameworks and support state sectors to achieve sustainability",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW16",
+                "name": "Shift trade balance of food towards xx% fewer imports to reduce external debt",
+                "ownership": "MoCI",
+                "transformative": "Strategic",
+                "children": [
+                    {
+                        "code": "FA.3.1",
+                        "name": "Enhance direct trade measures and implement indirect measures to protect local producers from imports",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "FA.1.K.2",
+                "name": "Achieve 55% self-sufficiency in vegetable production to reduce external debt",
+                "ownership": "MoM",
+                "transformative": "Strategic",
+                "children": [
+                    {
+                        "code": "FA.1.1",
+                        "name": "Enhance local vegetable production and markets",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.5.K.1",
+        "name": "Increase average life expectancy in Qatar to 82.62 years",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "HE.1.K.2",
+                "name": "Age-standardized NCD mortality rate",
+                "ownership": "MoPH",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "HE.1.2",
+                        "name": "Establish and promote a holistic well-being program to encourage lifelong healthy habits",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "HE.2.2",
+                        "name": "Enhance the health of the children and adolescents",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.2.8",
+                        "name": "Enhance the detection of chronic care diseases",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "EN.1.K.1",
+                "name": "GHG emissions",
+                "ownership": "MoECC",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "EN.1.5",
+                        "name": "Improve monitoring and control of the GHG emissions in Qatar",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "EN.1.7",
+                        "name": "Establish baseline, monitoring procedures, control and governance for air, noise, and light pollution",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "PS.3.K.1",
+                "name": "Percentage reduction in number of traffic accidents deaths",
+                "ownership": "MoI",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "PS.3.1",
+                        "name": "Revamp the General Directorate of Traffic’s current capabilities and leverage modern technology to increase efficiency in reducing traffic accidents",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "PS.3.2",
+                        "name": "Raise awareness around road threats and develop road literacy",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "SY.2.K.1",
+                "name": "Percentage of the male adult population who perform 150 minutes of moderate intensity activity (or equivalent) per week",
+                "ownership": "MoSY",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "SY.2.2",
+                        "name": "Develop specialized sports and youth programs for PWDs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "QE.1.K.1",
+                "name": "Proportion of students exhibiting a growth mindset (Qatari)",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "QE.1.1",
+                        "name": "Beyond the Books: Expand extracurricular activities, engage community in children’s learning journey and ensure wellbeing of learners",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "QE.1.2",
+                        "name": "NudgEd: Design and launch a behavioral change program to foster desired character traits and behaviors of learners",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.5.K.2",
+        "name": "Decrease obesity rate among adults to 38-40% ",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "HE.2.K.2",
+                "name": "% of growth in visits to primary care setting",
+                "ownership": "MoPH",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "HE.1.1",
+                        "name": "Enhance healthcare literacy to improve understanding among the entire population",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.1.2",
+                        "name": "Establish and promote a holistic well-being program to encourage lifelong healthy habits",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "HE.1.3",
+                        "name": "Establish partnerships focused on preventive health to promote wellness",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.1.4",
+                        "name": "Enhance patient self-ownership and control over the management of their health conditions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.2.2",
+                        "name": "Enhance the health of the children and adolescents",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.2.9",
+                        "name": "Strengthen community involvement in taking care of individuals and in long-term care planning",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "QE.1.K.1",
+                "name": "Proportion of students exhibiting a growth mindset (Qatari)",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "QE.1.1",
+                        "name": "Beyond the Books: Expand extracurricular activities, engage community in children’s learning journey and ensure wellbeing of learners",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "QE.1.2",
+                        "name": "NudgEd: Design and launch a behavioral change program to foster desired character traits and behaviors of learners",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SY.2.1",
+                        "name": "Introduce advanced sports and youth programs at schools and universities",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "SY.2.K.1",
+                "name": "Percentage of the male adult population who perform 150 minutes of moderate intensity activity (or equivalent) per week",
+                "ownership": "MoSY",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SY.2.2",
+                        "name": "Develop specialized sports and youth programs for PWDs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.3.K.8",
+        "name": "Close gap towards achieving 80% share of students graduating in STEM fields",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "QE.3.K.15",
+                "name": "Increase % of high school students achieving >70% in scientific track to 94%",
+                "ownership": "MoEHE",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "QE.3.1",
+                        "name": "Improve quality of public and private education (K-12) ",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "QE.3.3",
+                        "name": "NextGen Curriculum: Enhance National curriculum & digitally enabled learning resources",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "QE.6.1",
+                        "name": "Distribute, monitor, and balance the allocation of government spending across educational segments to effectively address required capabilities",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IN.1.K.3",
+                "name": "Increase the number of Research and Science and Engineering (RSE) full time employees within the business sector to 6,000 (per million people)",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.1.3",
+                        "name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.3",
+                        "name": "Develop innovation capacity and industry-ready skills to strenghten linkages between education, research, and businessess",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.3.K.6",
+        "name": "Increase average PISA score for Qataris to 408-438",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "QE.1.K.1",
+                "name": "Proportion of students exhibiting a growth mindset (Qatari)",
+                "ownership": "MoEHE",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "QE.3.1",
+                        "name": "Improve quality of public and private education (K-12) ",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "QE.3.3",
+                        "name": "NextGen Curriculum: Enhance National curriculum & digitally enabled learning resources",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "QE.6.1",
+                        "name": "Distribute, monitor, and balance the allocation of government spending across educational segments to effectively address required capabilities",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.1.K.1",
+        "name": "Sustain average yearly growth of overall GDP above 4%",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "NR.1.K.1",
+                "name": "Increase oil and gas production capacity to 6.7 MMBoe/day",
+                "ownership": "QE",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NR.1.1",
+                        "name": "Complete the North Field expansion project (NFE and NFS)",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.2",
+                        "name": "Sustain production from existing oil fields",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.3",
+                        "name": "Mature contingent resources",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.2.K.2",
+                "name": "Increase total business density to 30-55 per 1000 people",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.1.4",
+                        "name": "Design and implement reforms to enhance Qatar's business environment",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.2.5",
+                        "name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.3.2",
+                        "name": "Establish mechanisms to enable and drive continuous improvements of G2B services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "DI.4.K.1",
+                "name": "Increase IC sector yearly GDP growth rate between 2021-30 to 7.8%",
+                "ownership": "MCIT",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "DI.2.3",
+                        "name": "Establish technology foresight center",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.3.5",
+                        "name": "Establish Digital Attraction Program and Promotion of New Ways of Working",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.4.1",
+                        "name": "Advance SMEs & Enterprises Digital Transformation Program",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.1.K.1",
+                "name": "Increase transport and storage sector GDP growth to 6.6% between 2021-30",
+                "ownership": "MoT",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "LS.1.6",
+                        "name": "Reinforce Qatar’s logistic infrastructure and value proposition to capture new routes and volume",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "LS.2.1",
+                        "name": "Create an integrated intermodal transportation value proposition through customs and connections",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.6",
+                        "name": "Nurture innovation environment to incentivize the use of novel technologies and business models in land transportation",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "EC.1.K.1",
+                "name": "Drive yearly growth rate of 2.3% between 2021-30 for education sector’s contribution to GDP",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "EC.1.1",
+                        "name": "Grow student enrollment with a focus on foreign students coming from neighboring and target countries",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "EC.1.2",
+                        "name": "Increase supply of KGs and drive enrollment, focusing on expanding low to mid-tuition fee private KGs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "QE.3.3",
+                        "name": "NextGen Curriculum: Enhance National curriculum & digitally enabled learning resources",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "FS.1.K.1",
+                "name": "Sustain average yearly growth of financial services sector GDP above 4%",
+                "ownership": "QCB",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "FS.4.1",
+                        "name": "Grow digital payments through ecosystem integration to push growth in other sectors",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FS.5.1",
+                        "name": "Increase liquidity and depth of equity capital markets through new listings and attraction of international investors",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FS.6.1",
+                        "name": "Stimulate financing to Qatari SMEs by promoting banking and alternative financing and by launching coaching programs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IN.1.K.1",
+                "name": "Increase total business expenditure on R&D as a percentage of the gross expenditure on R&D to 60%",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.1.3",
+                        "name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "WF.1.K.1",
+                "name": "Increase CAGR of overall labor productivity in Qatar to >2% ",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "WF.3.1",
+                        "name": "Provide stimulus to private sector companies and local workforce to increase enrolment in mid- to high-skilled positions",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.1.K.2",
+        "name": "Improve towards yearly growth of Non-Hydrocarbon GDP above 4%",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "BE.2.K.2",
+                "name": "Increase total business density to 30-55 per 1000 people",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.1.4",
+                        "name": "Design and implement reforms to enhance Qatar's business environment",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.2.5",
+                        "name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.3.2",
+                        "name": "Establish mechanisms to enable and drive continuous improvements of G2B services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "DI.4.K.1",
+                "name": "Increase IC sector yearly GDP growth rate between 2021-30 to 7.8%",
+                "ownership": "MCIT",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "DI.2.3",
+                        "name": "Establish technology foresight center",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.3.5",
+                        "name": "Establish Digital Attraction Program and Promotion of New Ways of Working",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.4.1",
+                        "name": "Advance SMEs & Enterprises Digital Transformation Program",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.1.K.1",
+                "name": "Increase transport and storage sector GDP growth to 6.6% between 2021-30",
+                "ownership": "MoT",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "LS.1.6",
+                        "name": "Reinforce Qatar’s logistic infrastructure and value proposition to capture new routes and volume",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "LS.2.1",
+                        "name": "Create an integrated intermodal transportation value proposition through customs and connections",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.6",
+                        "name": "Nurture innovation environment to incentivize the use of novel technologies and business models in land transportation",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "EC.1.K.1",
+                "name": "Drive yearly growth rate of 2.3% between 2021-30 for education sector’s contribution to GDP",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "EC.1.1",
+                        "name": "Grow student enrollment with a focus on foreign students coming from neighboring and target countries",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "EC.1.2",
+                        "name": "Increase supply of KGs and drive enrollment, focusing on expanding low to mid-tuition fee private KGs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "QE.3.3",
+                        "name": "NextGen Curriculum: Enhance National curriculum & digitally enabled learning resources",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "FS.1.K.1",
+                "name": "Sustain average yearly growth of financial services sector GDP above 4%",
+                "ownership": "QCB",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "FS.4.1",
+                        "name": "Grow digital payments through ecosystem integration to push growth in other sectors",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FS.5.1",
+                        "name": "Increase liquidity and depth of equity capital markets through new listings and attraction of international investors",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FS.6.1",
+                        "name": "Stimulate financing to Qatari SMEs by promoting banking and alternative financing and by launching coaching programs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IN.1.K.1",
+                "name": "Increase total business expenditure on R&D as a percentage of the gross expenditure on R&D to 60%",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.1.3",
+                        "name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "WF.1.K.1",
+                "name": "Increase CAGR of overall labor productivity in Qatar to >2% ",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "WF.3.1",
+                        "name": "Provide stimulus to private sector companies and local workforce to increase enrolment in mid- to high-skilled positions",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.1.K.3",
+        "name": "Sustain average yearly growth of non-hydrocarbon GDP above 4%",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "MF.1.K.3",
+                "name": "Achieve a CAGR of 2.5% for manufacturing sector exports between 2021-30",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "MF.1.3",
+                        "name": "Develop differentiated advanced manufacturing clusters in Qatar (i.e., aluminum, plastic)",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "MF.3.2",
+                        "name": "Attract and support private manufacturing investment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.1.K.3",
+                "name": "Achieve a CAGR of 2.6% for transport and storage service exports between 2021-30",
+                "ownership": "MoT",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "LS.1.6",
+                        "name": "Reinforce Qatar’s logistic infrastructure and value proposition to capture new routes and volume",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "BE.6.K.3",
+                "name": "Increase SME contribution to NHC exports",
+                "ownership": "QDB",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.6.1",
+                        "name": "Strengthen trade promotion activities to support local exporters",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.2",
+                        "name": "Strengthen the suite of trade finance products to fund trade expansion activities and alleviate risks",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.4.2",
+                        "name": "Deploy Global Competitiveness fund to offset high shipping rates",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW13",
+                "name": "Reduce time for customs clearance and documentary compliance for imports/exports to xx",
+                "ownership": "GAC",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.4.1",
+                        "name": "Improve efficiency and effectiveness of customs clearance process",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "TO.1.K.3",
+        "name": "Increase total number of international visitors to 6-7 Mn",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "TO.3.K.1",
+                "name": "Increase satisfaction score (CSAT) of international visitors and residents to more than 88%",
+                "ownership": "QT",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "TO.1.1",
+                        "name": "Improve Qatar's accessibility (including borders) reliably to international visitors and enhance visa programs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.1.3",
+                        "name": "Boost the MICE segment",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.3.2",
+                        "name": "Develop and enhance tourism assets in line with visitor needs",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "TO.4.2",
+                        "name": "Build a world-class digital ecosystem",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.1.K.5",
+                "name": "Increase rank in the IATA air connectivity index to 25-26",
+                "ownership": "Qatar Airways",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "LS.1.5",
+                        "name": "Further expand and broaden air transportation offerings and footprint in the world",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW01",
+                "name": "Increase total number of regional and global sports events hosted in Qatar",
+                "ownership": "QOC",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SY.2.3",
+                        "name": "Promote Qatar's role as a host and organizer of local, regional and international sports events",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "NC.2.K.1",
+                "name": "Increase number of intangible heritage items submitted for UNESCO heritage lists to 8",
+                "ownership": "MoC",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NC.2.1",
+                        "name": "Strengthen awareness and interest in the national heritage",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "MF.2.K.2",
+        "name": "Rank at 40th place on the competitive industrial performance index",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "MF.1.K.2",
+                "name": "Increase share of value add from non-oil-and-gas linked manufacturing to 49.4%",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "MF.1.3",
+                        "name": "Develop differentiated advanced manufacturing clusters in Qatar (i.e., aluminum, plastic)",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "MF.3.2",
+                        "name": "Attract and support private manufacturing investment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.6.K.3",
+                "name": "Increase SME contribution to NHC exports",
+                "ownership": "QDB",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.5.3",
+                        "name": "Encourage firms to improve operational efficiencies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.1",
+                        "name": "Strengthen trade promotion activities to support local exporters",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.2",
+                        "name": "Strengthen the suite of trade finance products to fund trade expansion activities and alleviate risks",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "WF.6.K.1",
+                "name": "Increase the share of highly skilled expatriates in Qatar's workforce to 24%",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "IN.1.K.3",
+                "name": "Increase the number of Research and Science and Engineering (RSE) full time employees within the business sector to 6,000 (per million people)",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.1.3",
+                        "name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.3",
+                        "name": "Develop innovation capacity and industry-ready skills to strenghten linkages between education, research, and businessess",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.4.K.1",
+                "name": "Improve rank on the Liner shipping connectivity index to 18-34",
+                "ownership": "Mwani",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.2.4",
+                        "name": "Broaden port activities (beyond cargo) to create an integrated maritime ecosystem and increase port utilization",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.5",
+                        "name": "Enhance port operations through operational improvements and technology to increase competitiveness",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.2.K.3",
+                "name": "Elevate Qatar's logistics infrastructure and efficiency to rank among the 15 countries on LPI",
+                "ownership": "MoT",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.2.1",
+                        "name": "Create an integrated intermodal transportation value proposition through customs and connections",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.6",
+                        "name": "Nurture innovation environment to incentivize the use of novel technologies and business models in land transportation",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.8",
+                        "name": "Enhance logistics parks and warehousing planning; through a process, systems and governance review to decrease storage construction costs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.3.K.3",
+        "name": "Increase share of Qataris in private and mixed sector towards 18%",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "WF.1.K.1",
+                "name": "Increase CAGR of overall labor productivity in Qatar to >2% ",
+                "ownership": "MoL",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.1.1",
+                        "name": "Develop and implement a regionally leading workforce upskilling program targeting high-priority sectors",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.3.1",
+                        "name": "Provide stimulus to private sector companies and local workforce to increase enrolment in mid- to high-skilled positions",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.5.2",
+                        "name": "Enhance job-matching platforms to ensure highest rate of matching between job seekers and open vacancies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.7.2",
+                        "name": "Enhance working conditions to foster an attractive and productive working environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW02",
+                "name": "Increase total number of Qatari graduates securing a job in the private sector to xx%",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "QE.2.2",
+                        "name": "Future-ready Workforce (Supply): Ensure future skills foresight and matching supported by improved data analytics capabilities",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "QE.2.4",
+                        "name": "Redefine value proposition for post-secondary education",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "QE.2.5",
+                        "name": "TVET Governance: Design and implement TVET governance",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "QE.2.6",
+                        "name": "Education-to-Career Journey: Expand and improve quality of career counseling in education institutions",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "FS.1.K.4",
+                "name": "Increase number of financial services sector Qatari employees to 26,000",
+                "ownership": "QCB",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "FS.1.1",
+                        "name": "Launch an insurtech hub in Qatar as a specialization area",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FS.4.1",
+                        "name": "Grow digital payments through ecosystem integration to push growth in other sectors",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FS.7.2",
+                        "name": "Strengthen financial risk culture and awareness",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.2",
+                "name": "Increase number of investment deals made in Qatar's start-up sector to 70",
+                "ownership": "QDB",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "BE.5.3",
+                        "name": "Encourage firms to improve operational efficiencies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.1",
+                        "name": "Strengthen trade promotion activities to support local exporters",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.6",
+                "name": "Increase total value of PPP contracts subcontracted to SMEs to 10% of total value of PPP contracts",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "BE.2.5",
+                        "name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+                        "transformative": "Transformative"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.7.K.3",
+        "name": "Achieve 85% customer satisfaction rate with G2C services",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "IE.2.K.1",
+                "name": "Improve government effectiveness index percentile to 90th % percentile or higher ",
+                "ownership": "CGB",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IE.1.1",
+                        "name": "Transform the design and delivery of government services by strengthening and targeting central capabilities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IE.1.2",
+                        "name": "Design and launch centralized performance tracking and monitoring systems for government services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "DG.1.K.4",
+                "name": "Increase citizen trust in gov't usage of personal data to 95%+",
+                "ownership": "MCIT",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "DG.1.2",
+                        "name": "Drive Beneficiary Centric Government Services & Refine Centralized Services",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "DI.2.K.1",
+                "name": "Increase public sector entities that adhere to Qatar’s data regulations to 50%",
+                "ownership": "NPC",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "DG.1.1",
+                        "name": "Transform the Data & Statistics capabilities of the country",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IE.3.2",
+                        "name": "Grant easy and simple access to public government information to enhance transparency",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "HE.3.K.1",
+                "name": "Increase number of patients who report adequate level of satisfaction with in and out-patient services to >85%",
+                "ownership": "MoPH",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "HE.2.1",
+                        "name": "Enhance the healthcare system integration",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.2.4",
+                        "name": "Enhance the quality of life for patients with special needs by providing personalized care",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.3.1",
+                        "name": "Enhance standardized quality in primary and community care",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.3.4",
+                        "name": "Establish Centers of Excellence to enhance healthcare quality by focusing on specialized expertise",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.6.K.1",
+        "name": "Reduce the greenhouse gas emissions from all sources by 25%",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "EN.1.K.2",
+                "name": "Reduce concentration of nitrogen dioxide, ozone, and particulate matter by xx%",
+                "ownership": "MoECC",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "EN.1.5",
+                        "name": "Improve monitoring and control of the GHG emissions in Qatar",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "EN.1.7",
+                        "name": "Establish baseline, monitoring procedures, control and governance for air, noise, and light pollution",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "EN.7.1",
+                        "name": "Enhance international collaboration, disseminate data, and intensify the contribution to environmental sustainability and climate action",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NR.1.K.1",
+                "name": "Increase oil and gas production capacity to 6.7 MMBoe/day",
+                "ownership": "QE",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "EN.1.1",
+                        "name": "Realize Oil & Gas sector mitigation measures",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.1",
+                        "name": "Complete the North Field expansion project (NFE and NFS)",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.2",
+                        "name": "Sustain production from existing oil fields",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NR.8.K.1",
+                "name": "Increase renewable power generation capacity to 3.5-4 GW",
+                "ownership": "Kahramaa",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NR.8.1",
+                        "name": "Implementation of the renewable energy strategy, including establishing a smart grid platform",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.11.1",
+                        "name": "Increase the share of water desalinated by reverse osmosis technology to 55% or above (vs. ~30% in 2022)",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "EN.4.K.3",
+                "name": "Achieve 100% closure and rehabilitation for unsanitary landfills",
+                "ownership": "MoM",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "EN.4.5",
+                        "name": "Optimize end-to-end waste management (e.g., recycling and waste to energy capabilities) to unlock the circular economy potential",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "EN.5.1",
+                        "name": "Drive innovative agricultural practice to prioritize high yield sustainable farming and minimize negative impacts on the environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW03",
+                "name": "Reduce manufacturing waste sent to landfills by xx%",
+                "ownership": "MoCI",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "MF.4.1",
+                        "name": "Promote Sustainable Manufacturing and Circular Economy Principles",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NC.1.K.1",
+        "name": "Launch a national identity awareness index",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "NC.3.K.1",
+                "name": "Increase the share of people participating in cultural activities annually to 24%",
+                "ownership": "MoC",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NC.1.1",
+                        "name": "Strengthen pride in National Identity",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "NC.2.1",
+                        "name": "Strengthen awareness and interest in the national heritage",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NC.3.2",
+                        "name": "Develop our talents: Discover and nurture local cultural talents",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IC.1.K.1",
+                "name": "Increase rank in Anholt Ipsos Nation Brands Index to 46",
+                "ownership": "MoFA",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IC.1.1",
+                        "name": "Enhance Qatar’s positive image and enhance international understanding of its civilization",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IC.3.1",
+                        "name": "Strengthen Qatar’s model of international solidarity",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "SD.2.K.2",
+                "name": "Develop an indicator to measure women’s empowerment",
+                "ownership": "MSDF",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SD.2.1",
+                        "name": "Empowered Women: Strengthening support systems to empower women culturally, religiously, socially, economically, and within the family unit",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SD.2.2",
+                        "name": "Review and update legislation to remove obstacles, and support equity and women's empowerment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW04",
+                "name": "Increase positive perception of QA as a national symbol of excellence by xx%",
+                "ownership": "Qatar Airways",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.1.5",
+                        "name": "Further expand and broaden air transportation offerings and footprint in the world",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "SY.1.K.1",
+                "name": "Increase Youth Development Index rank for civic participation to 137",
+                "ownership": "MoSY",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "SY.1.1",
+                        "name": "Enhance sports and youth media outreach, and build digital platforms _x000B_to facilitate participation and awareness",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SY.1.2",
+                        "name": "Introduce programs tailored for youth preferences and developmental needs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW05",
+                "name": "Increase % of citizens who associate women’s sports with cultural pride by xx%",
+                "ownership": "QF",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "SY.3.1",
+                        "name": "Develop specialized sports programs for women, aligned with society’s values",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW06",
+                "name": "Develop xx digital learning modules (e. focused on Qatari identity and values",
+                "ownership": "MoEHE",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "QE.3.3",
+                        "name": "NextGen Curriculum: Enhance National curriculum & digitally enabled learning resources",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "TO.4.K.1",
+                "name": "Boost % of travelers who would consider Qatar for their next holiday to >45%",
+                "ownership": "Visit Qatar (QT)",
+                "transformative": "Strategic",
+                "children": [
+                    {
+                        "code": "TO.1.3",
+                        "name": "Boost the MICE segment",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.1.4",
+                        "name": "Leverage sport's strategy to activate and cater to specialized demand segments in the sports tourism market",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.3.2",
+                        "name": "Develop and enhance tourism assets in line with visitor needs",
+                        "transformative": "Transformative"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.4.K.2",
+        "name": "Increase share of economically active PwDs to 30%",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "NEW07",
+                "name": "Ensure that xx% of newly classified PWDs are enrolled in at least one labor-market-aligned service (e.g., skills training) within 6 months of classification",
+                "ownership": "MSDF",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SD.3.1",
+                        "name": "No one Left Behind: Strengthen the capacities of institutions to identify and classify vulnerable segments",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SD.3.2",
+                        "name": "Care and Empowerment for All - Care: Expand and strengthen service offering for vulnerable segments",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "SD.3.3",
+                        "name": "Care and Empowerment for All - Empowerment: Integrate Vulnerables in all aspects of social life",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SD.6.2",
+                        "name": "Enhance information exchange in the field of social development and family cohesion: Enhance digital capabilities and data sharing ",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW08",
+                "name": "Increase the number of PWDs enrolled in workforce reintegration programs by xx%",
+                "ownership": "MoL",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.2.1",
+                        "name": "Develop policies to facilitate transition to and reintegration into the labor market of vulnerable and underrepresented segments of the workforce",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "QE.7.K.1",
+                "name": "Increase total number of students with disabilities enrolled in education as a percentage of the entire population of people with disabilities of corresponding official school age (pre-primary through grades 1-12) to 100%",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "QE.7.1",
+                        "name": "My Special Track: Enhance learning environment and expand the capacity for students with disabilities",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "SY.4.K.3",
+                "name": "Increase number of PwD athletes participating in Paralympics to xx",
+                "ownership": "MoSY",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "SY.2.2",
+                        "name": "Develop specialized sports and youth programs for PWDs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SY.4.1",
+                        "name": "Improve the quality and quantity of qualified coaches and sports and youth professionals",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.2.K.1",
+        "name": "Reduce the overall fiscal balance as a percentage of GDP from 13.5% towards 5.5%",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "NR.1.K.1",
+                "name": "Increase oil and gas production capacity to 6.7 MMBoe/day",
+                "ownership": "QE",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NR.1.1",
+                        "name": "Complete the North Field expansion project (NFE and NFS)",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.2",
+                        "name": "Sustain production from existing oil fields",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.3",
+                        "name": "Mature contingent resources",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW09",
+                "name": "Launch xx pilot PPP projects in strategic sectors",
+                "ownership": "NPC",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IE.2.1",
+                        "name": "Align the govt superstructure and entity-level org structure to NDS3 priorities and spearhead its delivery through a focused implementation program",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "WF.4.K.1",
+                "name": "Increase total number of Qataris employed in the public sector to 106,000",
+                "ownership": "CGB",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.4.1",
+                        "name": "Design and execute new mechanisms to optimize the size of government with new contracts models and mobility opportunities - paving the way for leaner government entities",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "FC.2.K.3",
+                "name": "Reduce budget outturns over forecast medium term budget projection to 5%",
+                "ownership": "MoF",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "FC.2.1",
+                        "name": "Establish medium-term fiscal framework and transform budgetary governance",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FC.2.2",
+                        "name": "Transform government and SOE procurement to ensure transparency, fairness and simplicity across government entities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.2.3",
+                        "name": "Launch and institutionalize public spending reviews",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.3.2",
+                        "name": "Develop sustainable financing frameworks and support state sectors to achieve sustainability",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FC.4.1",
+                        "name": "Develop & launch a national asset management program to ensure sustainable infrastructure development",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "FS.2.K.1",
+                "name": "Increase value of assets under management being managed from Qatar to QAR 10 Bn",
+                "ownership": "QCB",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "FS.2.1",
+                        "name": "Strengthen asset managers by promoting savings, expanding pension coverage, and the professionalization of pension and endowment funds",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FS.5.2",
+                        "name": "Support debt listings by expanding the local government bond market to further diversify financing",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW10",
+                "name": "Increase overall tax compliance rate to xx%",
+                "ownership": "GTA",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "FC.1.2",
+                        "name": "Strengthen tax authority's administrative capacity and efficiency",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.4.K.5",
+        "name": "Increase the average national fertility rate towards 3",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "SD.1.K.3",
+                "name": "Increase marriage rate to 15 marriages per 1000 people over 15 years old",
+                "ownership": "MSDF",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SD.1.1",
+                        "name": "Family First - Family Bonds: An initiative aimed at promoting positive parenting and family cohesion",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "SD.1.2",
+                        "name": "Family First - Population Growth: Reviewing and developing family policies and the direct pro- natalist benefits",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SD.1.3",
+                        "name": "Family First - The Marriage Institution: Encourage and support the institution of marriage",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "HE.1.K.6",
+                "name": "Decrease infant mortality rate to 2 deaths per 1000 live births",
+                "ownership": "MoPH",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "HE.2.6",
+                        "name": "Ensure reproductive wellbeing by providing comprehensive healthcare services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "BE.4.K.7",
+        "name": "Increase % of SMEs in government procurement to xx%",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "NEW12",
+                "name": "Implement simplified bidding procedures tailored for SMEs in at least xx major procurement categories ",
+                "ownership": "MoF",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "FC.2.2",
+                        "name": "Transform government and SOE procurement to ensure transparency, fairness and simplicity across government entities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.2.3",
+                        "name": "Launch and institutionalize public spending reviews",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.6",
+                "name": "Increase total value of PPP contracts subcontracted to SMEs to 10% of total value of PPP contracts",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.2.5",
+                        "name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "NEW11",
+                "name": "Expand targeted credit facilities or guarantee schemes to reach at least xx% SMEs bidding for government contracts",
+                "ownership": "QIA",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "BE.4.4",
+                        "name": "Engage and empower private sector investors, including the expansion of credit facilities to a broad range of companies",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "NR.5.K.2",
+                "name": "Increase share of local firms in supply chain to 40%",
+                "ownership": "QE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "MF.5.3",
+                        "name": "Develop Oil and Gas support industry",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.5.1",
+                        "name": "Expand Tawteen program through existing and new areas of focus",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "IC.1.K.1",
+        "name": "Increase rank in Anholt Ipsos Nation Brands Index to 46",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "IC.1.K.2",
+                "name": "Achieve a rank of top 10 in the International Soft Power Index",
+                "ownership": "MoFA",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IC.1.1",
+                        "name": "Enhance Qatar’s positive image and enhance international understanding of its civilization",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IC.2.1",
+                        "name": "Review the aid delivery model",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IC.2.2",
+                        "name": "Improve the aid quality",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NC.2.K.1",
+                "name": "Increase number of intangible heritage items submitted for UNESCO heritage lists to 8",
+                "ownership": "MoC",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NC.2.1",
+                        "name": "Strengthen awareness and interest in the national heritage",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "TO.1.K.1",
+                "name": "Increase total number of international visitors to 6-7 Mn",
+                "ownership": "QT",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "TO.1.1",
+                        "name": "Improve Qatar's accessibility (including borders) reliably to international visitors and enhance visa programs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.1.3",
+                        "name": "Boost the MICE segment",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.1.4",
+                        "name": "Leverage sport's strategy to activate and cater to specialized demand segments in the sports tourism market",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.3.2",
+                        "name": "Develop and enhance tourism assets in line with visitor needs",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "TO.3.4",
+                        "name": "Enhance Service Excellence, develop new tourism packages and services and enhance existing ones",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "QE.3.K.4",
+                "name": "Increase share of teachers with masters degree to xx%",
+                "ownership": "MoEHE",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "QE.3.1",
+                        "name": "Improve quality of public and private education (K-12) ",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "NEW01",
+                "name": "Increase total number of regional and global sports events hosted in Qatar",
+                "ownership": "QOC",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SY.2.3",
+                        "name": "Promote Qatar's role as a host and organizer of local, regional and international sports events",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "SD.2.K.3",
+                "name": "Increase rate of reporting on domestic violence to 6 per 1000 women",
+                "ownership": "MSDF",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "SD.1.1",
+                        "name": "Family First - Family Bonds: An initiative aimed at promoting positive parenting and family cohesion",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "SD.2.1",
+                        "name": "Empowered Women: Strengthening support systems to empower women culturally, religiously, socially, economically, and within the family unit",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "SD.2.2",
+                        "name": "Review and update legislation to remove obstacles, and support equity and women's empowerment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "PS.3.K.4",
+                "name": "Reduce rate of serious traffic accidents injuries to less than 12.7 per 100,000 people",
+                "ownership": "MoI",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "PS.3.1",
+                        "name": "Revamp the General Directorate of Traffic’s current capabilities and leverage modern technology to increase efficiency in reducing traffic accidents",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "PS.3.2",
+                        "name": "Raise awareness around road threats and develop road literacy",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IN.2.K.3",
+                "name": "Increase number of research publications/articles per bn PPP$ GDP to 44",
+                "ownership": "QRDI",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.2",
+                        "name": "Strengthen existing and introduce new RDI talent programs aligned with national priorities by expanding education pathways and enhancing supply-demand planning",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.7.K.1",
+        "name": "Improve government effectiveness index percentile to 90th % percentile or higher ",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "IE.1.K.1",
+                "name": "Increase customer satisfaction with G2C services to >85%",
+                "ownership": "CGB",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IE.1.1",
+                        "name": "Transform the design and delivery of government services by strengthening and targeting central capabilities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IE.1.2",
+                        "name": "Design and launch centralized performance tracking and monitoring systems for government services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "DG.1.K.2",
+                "name": "Increase satisfaction of government entities and businesses with respect to availability and accuracy of government data to >85%",
+                "ownership": "NPC",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "DG.1.1",
+                        "name": "Transform the Data & Statistics capabilities of the country",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IE.3.2",
+                        "name": "Grant easy and simple access to public government information to enhance transparency",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.3.K.1",
+                "name": "Decrease time to start a business in Qatar to 1 day",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.1.4",
+                        "name": "Design and implement reforms to enhance Qatar's business environment",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.3.2",
+                        "name": "Establish mechanisms to enable and drive continuous improvements of G2B services",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "FC.2.K.1",
+                "name": "Achieve a fiscal balance of 5.5% as a % of GDP",
+                "ownership": "MoF",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "FC.1.1",
+                        "name": "Evaluate and launch potential new non-hydrocarbon revenues sources",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.2.1",
+                        "name": "Establish medium-term fiscal framework and transform budgetary governance",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FC.2.2",
+                        "name": "Transform government and SOE procurement to ensure transparency, fairness and simplicity across government entities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.2.3",
+                        "name": "Launch and institutionalize public spending reviews",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.3.1",
+                        "name": "Enhance government debt management framework to support fiscal planning",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FC.4.1",
+                        "name": "Develop & launch a national asset management program to ensure sustainable infrastructure development",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "DI.4.K.3",
+                "name": "Achieve a rank of xx in the Sectoral Digital Maturity Index",
+                "ownership": "MCIT",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "DI.2.1",
+                        "name": "Develop ICT regulatory landscape",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.2.2",
+                        "name": "Establish Qatar's leadership in Artificial intelligence",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "DI.2.4",
+                        "name": "Establish Qatar's leadership in other emerging technologies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.3.3",
+                        "name": "Priority Sectors Digital Transformation Program",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.5.3",
+                        "name": "Establish Digital Agenda Governance & Monitoring Program",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.5.K.1",
+                "name": "Reduce average travel times for goods to the airport and ports to 61 minutes/journey",
+                "ownership": "MoT",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.1.6",
+                        "name": "Reinforce Qatar’s logistic infrastructure and value proposition to capture new routes and volume",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "LS.2.1",
+                        "name": "Create an integrated intermodal transportation value proposition through customs and connections",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "WF.6.K.1",
+                "name": "Increase the share of highly skilled expatriates in Qatar's workforce to 24%",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.7.1",
+                        "name": "Facilitate flexible types of work contracts, to attract mid- to highly skilled workforce to the private sector",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.7.2",
+                        "name": "Enhance working conditions to foster an attractive and productive working environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.1.K.7",
+        "name": "Achieve a top 30 ranking on the Global Innovation Index",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "IN.1.K.1",
+                "name": "Increase total business expenditure on R&D as a percentage of the gross expenditure on R&D to 60%",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.1.3",
+                        "name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.2",
+                        "name": "Strengthen existing and introduce new RDI talent programs aligned with national priorities by expanding education pathways and enhancing supply-demand planning",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.3",
+                        "name": "Develop innovation capacity and industry-ready skills to strenghten linkages between education, research, and businessess",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "DI.1.K.1",
+                "name": "Achieve a top 10 rank on the Technological Framework pillar of the Digital Competitiveness Index",
+                "ownership": "MCIT",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "DG.1.2",
+                        "name": "Drive Beneficiary Centric Government Services & Refine Centralized Services",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "DI.2.3",
+                        "name": "Establish technology foresight center",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.3.3",
+                        "name": "Priority Sectors Digital Transformation Program",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "DI.5.1",
+                        "name": "Optimize and enforce ICT infrastructure frameworks and processes to maintain a robust state-of-the-art ICT infrastructure",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.1.K.2",
+                "name": "Increase Qatar's position on the regulatory quality index to top 10 %ile",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.1.4",
+                        "name": "Design and implement reforms to enhance Qatar's business environment",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.2.5",
+                        "name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "BE.5.1",
+                        "name": "Encourage firms to improve the maturity and efficiency of core management functions",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.2",
+                "name": "Increase number of investment deals made in Qatar's start-up sector to 70",
+                "ownership": "QDB",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.5.3",
+                        "name": "Encourage firms to improve operational efficiencies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.1",
+                        "name": "Strengthen trade promotion activities to support local exporters",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.2",
+                        "name": "Strengthen the suite of trade finance products to fund trade expansion activities and alleviate risks",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.8",
+                "name": "Increase assets deployed in Qatar by national Fund of Funds to USD 350 Mn",
+                "ownership": "QIA",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.4.4",
+                        "name": "Engage and empower private sector investors, including the expansion of credit facilities to a broad range of companies",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "WF.6.K.1",
+                "name": "Increase the share of highly skilled expatriates in Qatar's workforce to 24%",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.7.1",
+                        "name": "Facilitate flexible types of work contracts, to attract mid- to highly skilled workforce to the private sector",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.7.2",
+                        "name": "Enhance working conditions to foster an attractive and productive working environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "HE.8.K.2",
+                "name": "Increase number of citations in healthcare research to 1,926 – 2,354 (000s)",
+                "ownership": "MoPH",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "HE.8.4",
+                        "name": "Develop and implement an innovation ecosystem",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "HE.8.5",
+                        "name": "Implement systems to effectively translate innovation into the health system",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "LS.2.K.3",
+                "name": "Elevate Qatar's logistics infrastructure and efficiency to rank among the 15 countries on LPI",
+                "ownership": "MoT",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.2.6",
+                        "name": "Nurture innovation environment to incentivize the use of novel technologies and business models in land transportation",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "LS.2.8",
+                        "name": "Enhance logistics parks and warehousing planning; through a process, systems and governance review to decrease storage construction costs",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NO.3.K.11",
+        "name": "Increase the share of highly skilled expatriates in Qatar’s workforce to 24%",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "WF.1.K.1",
+                "name": "Increase CAGR of overall labor productivity in Qatar to >2% ",
+                "ownership": "MoL",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.7.1",
+                        "name": "Facilitate flexible types of work contracts, to attract mid- to highly skilled workforce to the private sector",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.7.2",
+                        "name": "Enhance working conditions to foster an attractive and productive working environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IN.1.K.3",
+                "name": "Increase the number of Research and Science and Engineering (RSE) full time employees within the business sector to 6,000 (per million people)",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.2.1",
+                        "name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IN.2.3",
+                        "name": "Develop innovation capacity and industry-ready skills to strenghten linkages between education, research, and businessess",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW19",
+                "name": "Partner with at least xx% major multinational employers or talent networks to promote Qatar as a destination for skilled professionals",
+                "ownership": "IPAQ",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.5.4",
+                        "name": "Enhance attractiveness of opportunities in Qatar for high-skilled talent",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "EC.1.K.4",
+                "name": "Increase total number of foreign international students in tertiary education to 7,000",
+                "ownership": "MoEHE",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "EC.1.1",
+                        "name": "Grow student enrollment with a focus on foreign students coming from neighboring and target countries",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NEW02",
+        "name": "Increase total number of Qatari graduates securing a job in the private sector to xx%",
+        "transformative": "Strategic",
+        "children": [
+            {
+                "code": "IE.2.K.2",
+                "name": "Achieve 80% of outcomes (strategic, operational) under QNDS3",
+                "ownership": "NPC",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "IE.2.2",
+                        "name": "Strengthen the center of govt with clear allocation and distribution of functional accountabilities across entities",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "IE.2.3",
+                        "name": "Strengthen policymaking functions within gov't entities and drive cross-policy collaboration",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "WF.4.K.5",
+                "name": "Achieve a CAGR of 3-5% in Chapter 1 spend (salaries and wages)",
+                "ownership": "CGB",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.4.3",
+                        "name": "Design and implement strategic government workforce plans to line-up the right pipeline of civil service talent, capabilities and competencies for future needs",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.8.2",
+                        "name": "Transform the civil service compensation system to attract, reward and recognize top talent through variable pay and differentiated pay-scales",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.8.3",
+                        "name": "Redesign occupational map of the government and career journeys",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "FC.2.K.1",
+                "name": "Achieve a fiscal balance of 5.5% as a % of GDP",
+                "ownership": "MoF",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "FC.2.1",
+                        "name": "Establish medium-term fiscal framework and transform budgetary governance",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "FC.2.2",
+                        "name": "Transform government and SOE procurement to ensure transparency, fairness and simplicity across government entities",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.2.3",
+                        "name": "Launch and institutionalize public spending reviews",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "FC.4.1",
+                        "name": "Develop & launch a national asset management program to ensure sustainable infrastructure development",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "WF.1.K.1",
+                "name": "Increase CAGR of overall labor productivity in Qatar to >2% ",
+                "ownership": "MoL",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "WF.2.1",
+                        "name": "Develop policies to facilitate transition to and reintegration into the labor market of vulnerable and underrepresented segments of the workforce",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.5.2",
+                        "name": "Enhance job-matching platforms to ensure highest rate of matching between job seekers and open vacancies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.6.1",
+                        "name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "WF.7.1",
+                        "name": "Facilitate flexible types of work contracts, to attract mid- to highly skilled workforce to the private sector",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "WF.7.2",
+                        "name": "Enhance working conditions to foster an attractive and productive working environment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NR.5.K.1",
+                "name": "Achieve a cumulative in-country investment of QAR 15 Bn by 2025",
+                "ownership": "QE",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "NR.2.2",
+                        "name": "Capture synergies from downstream operations",
+                        "transformative": "Strategic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "NEW01",
+        "name": "Increase total number of regional and global sports events hosted in Qatar",
+        "transformative": "Transformative",
+        "children": [
+            {
+                "code": "BE.1.K.3",
+                "name": "Increase the NPS/C-SAT score across foreign investor journey to >80%",
+                "ownership": "IPAQ",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.1.1",
+                        "name": "Accelerate attraction of Foreign Direct Investment (FDI) into key industries in Qatar ",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "MF.5.2",
+                        "name": "Establish a Dynamic Ecosystem for an Advanced Food And Beverage Industrial Cluster",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "MF.1.K.4",
+                "name": "Increase foreign investment in the manufacturing sector to QAR xx Bn",
+                "ownership": "MoCI",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "MF.1.3",
+                        "name": "Develop differentiated advanced manufacturing clusters in Qatar (i.e., aluminum, plastic)",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "MF.3.2",
+                        "name": "Attract and support private manufacturing investment",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NR.5.K.1",
+                "name": "Achieve a cumulative in-country investment of QAR 15 Bn by 2025",
+                "ownership": "QE",
+                "transformative": "Strategic",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "MF.5.3",
+                        "name": "Develop Oil and Gas support industry",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.1.1",
+                        "name": "Complete the North Field expansion project (NFE and NFS)",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "NR.2.2",
+                        "name": "Capture synergies from downstream operations",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW22",
+                "name": "Increase access to domestic credit and co-investment platforms by xx% to catalyze foreign direct investments ",
+                "ownership": "QIA",
+                "transformative": "Transformative",
+                "impact": "High",
+                "children": [
+                    {
+                        "code": "BE.4.4",
+                        "name": "Engage and empower private sector investors, including the expansion of credit facilities to a broad range of companies",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "LS.3.K.3",
+                "name": "Increase domestic and foreign direct investments in the logistics sector to QAR xx Bn",
+                "ownership": "MoT",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "LS.1.6",
+                        "name": "Reinforce Qatar’s logistic infrastructure and value proposition to capture new routes and volume",
+                        "transformative": "Transformative"
+                    }
+                ]
+            },
+            {
+                "code": "BE.4.K.2",
+                "name": "Increase number of investment deals made in Qatar's start-up sector to 70",
+                "ownership": "QDB",
+                "transformative": "Strategic",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "BE.5.3",
+                        "name": "Encourage firms to improve operational efficiencies",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.1",
+                        "name": "Strengthen trade promotion activities to support local exporters",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "BE.6.2",
+                        "name": "Strengthen the suite of trade finance products to fund trade expansion activities and alleviate risks",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "IN.1.K.1",
+                "name": "Increase total business expenditure on R&D as a percentage of the gross expenditure on R&D to 60%",
+                "ownership": "QRDI",
+                "transformative": "Transformative",
+                "impact": "Medium",
+                "children": [
+                    {
+                        "code": "IN.1.1",
+                        "name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+                        "transformative": "Transformative"
+                    },
+                    {
+                        "code": "IN.3.2",
+                        "name": "Establish innovation-friendly regulations and set-up a mechanism for its continued development",
+                        "transformative": "Strategic"
+                    }
+                ]
+            },
+            {
+                "code": "NEW23",
+                "name": "Increase foreign investment in the tourism sector to QAR xx Bn",
+                "ownership": "Visit Qatar (QT)",
+                "transformative": "Strategic",
+                "children": [
+                    {
+                        "code": "TO.1.3",
+                        "name": "Boost the MICE segment",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.3.1",
+                        "name": "Develop and activate tourism laws & regulations to boost the attractiveness & competitiveness of the tourism sector",
+                        "transformative": "Strategic"
+                    },
+                    {
+                        "code": "TO.3.2",
+                        "name": "Develop and enhance tourism assets in line with visitor needs",
+                        "transformative": "Transformative"
+                    }
+                ]
+            }
+        ]
+    }
+]

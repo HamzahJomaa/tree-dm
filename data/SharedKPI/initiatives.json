@@ -1,0 +1,2032 @@
+[
+    {
+        "Initiative code": "BE.1.1",
+        "Initiative name": "Accelerate attraction of Foreign Direct Investment (FDI) into key industries in Qatar ",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "IPAQ",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.1.4",
+        "Initiative name": "Design and implement reforms to enhance Qatar's business environment",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoCI",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.2.5",
+        "Initiative name": "Maximize private sector participation and competition, including privatization, liberalization, incentives, and PPP",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoCI",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.3.2",
+        "Initiative name": "Establish mechanisms to enable and drive continuous improvements of G2B services",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.3.3",
+        "Initiative name": "Strengthen mainland / freezone dispute resolution Institutions and mechanisms",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "SJC",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.3.4",
+        "Initiative name": "Enhance the availability and accessibility to information on Qatar's laws, explanatory instruments and processes",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoJ",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.4.4",
+        "Initiative name": "Engage and empower private sector investors, including the expansion of credit facilities to a broad range of companies",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "QIA",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.5.1",
+        "Initiative name": "Encourage firms to improve the maturity and efficiency of core management functions",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.5.2",
+        "Initiative name": "Provide incentives for firms to upskill capabilities and competencies of their employees",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCCI",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.5.3",
+        "Initiative name": "Encourage firms to improve operational efficiencies",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QDB",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.5.4",
+        "Initiative name": "Enhance attractiveness of opportunities in Qatar for high-skilled talent",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "IPAQ",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.6.1",
+        "Initiative name": "Strengthen trade promotion activities to support local exporters",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QDB",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.6.2",
+        "Initiative name": "Strengthen the suite of trade finance products to fund trade expansion activities and alleviate risks",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QDB",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "BE.7.1",
+        "Initiative name": "Build trade and investment relationships strategically aligned to economic and sectoral priorities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "BE"
+    },
+    {
+        "Initiative code": "DG.1.1",
+        "Initiative name": "Transform the Data & Statistics capabilities of the country",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "NPC",
+        "Sector": "DG"
+    },
+    {
+        "Initiative code": "DG.1.2",
+        "Initiative name": "Drive Beneficiary Centric Government Services & Refine Centralized Services",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MCIT",
+        "Sector": "DG"
+    },
+    {
+        "Initiative code": "DI.1.2",
+        "Initiative name": "Develop Environmental Technology Program",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "FC.4.1",
+        "Initiative name": "Develop & launch a national asset management program to ensure sustainable infrastructure development",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "DI.2.1",
+        "Initiative name": "Develop ICT regulatory landscape",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.2.2",
+        "Initiative name": "Establish Qatar's leadership in Artificial intelligence",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.2.3",
+        "Initiative name": "Establish technology foresight center",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.2.4",
+        "Initiative name": "Establish Qatar's leadership in other emerging technologies",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.3.2",
+        "Initiative name": "Develop national data monetization strategy & governance",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "NPC",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.3.3",
+        "Initiative name": "Priority Sectors Digital Transformation Program",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.3.4",
+        "Initiative name": "Develop Cross-border Digital Economy Framework",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.3.5",
+        "Initiative name": "Establish Digital Attraction Program and Promotion of New Ways of Working",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.4.1",
+        "Initiative name": "Advance SMEs & Enterprises Digital Transformation Program",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.5.1",
+        "Initiative name": "Optimize and enforce ICT infrastructure frameworks and processes to maintain a robust state-of-the-art ICT infrastructure",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.5.2",
+        "Initiative name": "Establish Digital Economy Maturity Framework & Index",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.5.3",
+        "Initiative name": "Establish Digital Agenda Governance & Monitoring Program",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MCIT",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "DI.6.1",
+        "Initiative name": "Strengthen the security and resilience of Qatar’s cyber ecosystem, with emphasis on the Critical National Infrastructure",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "NCSA",
+        "Sector": "DI"
+    },
+    {
+        "Initiative code": "EC.1.1",
+        "Initiative name": "Grow student enrollment with a focus on foreign students coming from neighboring and target countries",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "EC"
+    },
+    {
+        "Initiative code": "EC.1.2",
+        "Initiative name": "Increase supply of KGs and drive enrollment, focusing on expanding low to mid-tuition fee private KGs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "EC"
+    },
+    {
+        "Initiative code": "EC.1.3",
+        "Initiative name": "Work with the digital and IT cluster and specialize in educational technology offerings, with a focus on exporting to regional markets",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "EC"
+    },
+    {
+        "Initiative code": "EC.1.4",
+        "Initiative name": "Work with the Media and Creative cluster and specialize in innovative Arabic-language and Islamic studies content for digital-forward production and export to regional markets",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "EC"
+    },
+    {
+        "Initiative code": "EN.1.5",
+        "Initiative name": "Improve monitoring and control of the GHG emissions in Qatar",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.1.4",
+        "Initiative name": "Realize Building, Construction & Industry sector mitigation measures",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.1.6",
+        "Initiative name": "Revalidate possible measures to bridge the gap to attain the 25% GHG reduction target",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.1.7",
+        "Initiative name": "Establish baseline, monitoring procedures, control and governance for air, noise, and light pollution",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.6.1",
+        "Initiative name": "Develop and adopt flexible planning standards for infrastructure facilities to address climate change",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.4.5",
+        "Initiative name": "Optimize end-to-end waste management (e.g., recycling and waste to energy capabilities) to unlock the circular economy potential",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.2.2",
+        "Initiative name": "Undertake actions to protect endangered species on land, sea, and air ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.3.1",
+        "Initiative name": "Ensure quality of all water sources (groundwater, seawater, TSE, and potable water) through regular and effective monitoring ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.2.1",
+        "Initiative name": "Implement areas for natural habitat and ecosystems protection and rehabilitation ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.2.3",
+        "Initiative name": "Enhance biodiversity data collection, analysis, and reporting ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.3.2",
+        "Initiative name": "Encourage sustainable water conservation behavior and mindset in society to optimize household water usage",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.4.2",
+        "Initiative name": "Promote the development of a circular economy market",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.4.3",
+        "Initiative name": "Introduce programs to reduce waste generation through societal behavioral change",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.4.4",
+        "Initiative name": "Define, track, regulate and safely dispose of hazardous waste",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.7.1",
+        "Initiative name": "Enhance international collaboration, disseminate data, and intensify the contribution to environmental sustainability and climate action",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.5.1",
+        "Initiative name": "Drive innovative agricultural practice to prioritize high yield sustainable farming and minimize negative impacts on the environment",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.5.2",
+        "Initiative name": "Introduce mandatory green building principles into the building code to create environmentally-friendly and livable space for future generations",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.7.2",
+        "Initiative name": "Elevate the sectorial governance level, ensure adequate capabilities and effective execution of the strategic targets",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.7.3",
+        "Initiative name": "Invest in the transferring and developing of specific new technologies to address national challenges",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.7.4",
+        "Initiative name": "Support and deploy research, development and innovation to find solutions for environmental sustainability and climate change",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.1.3",
+        "Initiative name": "Realize Transportation sector mitigation measures",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.1.1",
+        "Initiative name": "Realize Oil & Gas sector mitigation measures",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.4.1",
+        "Initiative name": "Adopt circular principles in industrial processes and Qatar's industrial cities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "EN.7.5",
+        "Initiative name": "Raise awareness and foster responsibility to encourage sustainable environmental actions",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "EN"
+    },
+    {
+        "Initiative code": "FA.1.1",
+        "Initiative name": "Enhance local vegetable production and markets",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.1.2",
+        "Initiative name": "Maintain Sustainable Levels of Marine Fishing and Promote Aquaculture Development",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.1.3",
+        "Initiative name": "Advance Local Red Meat Production",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.1.4",
+        "Initiative name": "Reduce Water Usage, Promote Sustainability, and Advance Climate-Smart Agriculture",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.1.5",
+        "Initiative name": "Ensure safety, quality and biosecurity along the entire food value chain",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.2.1",
+        "Initiative name": "Optimize and expand storage reserves with a selection of commodities from the \"Essential\" (yellow) basket",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.2.2",
+        "Initiative name": "Expand storage reserves to include \"Emergency\" (red) basket commodities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.2.3",
+        "Initiative name": "Establish an integrated alert system for food security",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.3.1",
+        "Initiative name": "Enhance direct trade measures and implement indirect measures to protect local producers from imports",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.3.2",
+        "Initiative name": "Establish mechanism to facilitate trade diversification",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.3.3",
+        "Initiative name": "Establish regional food and feed trading and processing hub",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.3.4",
+        "Initiative name": "Study Investment Opportunities in Suppliers of Green Fodder and Develop Capabilities for External Supply and Logistics Chains",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FA.3.5",
+        "Initiative name": "Study Investment in Cold Supply Chain Facilities Related to the Production of Red Meat from Sheep and Cattle Abroad",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "FA"
+    },
+    {
+        "Initiative code": "FC.1.1",
+        "Initiative name": "Evaluate and launch potential new non-hydrocarbon revenues sources",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FC.1.2",
+        "Initiative name": "Strengthen tax authority's administrative capacity and efficiency",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "GTA",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FC.2.1",
+        "Initiative name": "Establish medium-term fiscal framework and transform budgetary governance",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FC.2.2",
+        "Initiative name": "Transform government and SOE procurement to ensure transparency, fairness and simplicity across government entities",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FC.2.3",
+        "Initiative name": "Launch and institutionalize public spending reviews",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FC.3.1",
+        "Initiative name": "Enhance government debt management framework to support fiscal planning",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FC.3.2",
+        "Initiative name": "Develop sustainable financing frameworks and support state sectors to achieve sustainability",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoF",
+        "Sector": "FC"
+    },
+    {
+        "Initiative code": "FS.6.1",
+        "Initiative name": "Stimulate financing to Qatari SMEs by promoting banking and alternative financing and by launching coaching programs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.1.1",
+        "Initiative name": "Launch an insurtech hub in Qatar as a specialization area",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.1.2",
+        "Initiative name": "Enact reforms, incentive programs, and awareness campaigns to increase the penetration of the local insurance market",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.2.1",
+        "Initiative name": "Strengthen asset managers by promoting savings, expanding pension coverage, and the professionalization of pension and endowment funds",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.3.1",
+        "Initiative name": "Promote green finance products to encourage investments in sustainable projects",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.4.1",
+        "Initiative name": "Grow digital payments through ecosystem integration to push growth in other sectors",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.5.1",
+        "Initiative name": "Increase liquidity and depth of equity capital markets through new listings and attraction of international investors",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.5.2",
+        "Initiative name": "Support debt listings by expanding the local government bond market to further diversify financing",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.7.1",
+        "Initiative name": "Enhance preventive and intervention capacity",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "FS.7.2",
+        "Initiative name": "Strengthen financial risk culture and awareness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QCB",
+        "Sector": "FS"
+    },
+    {
+        "Initiative code": "HC.1.1",
+        "Initiative name": "Establish a specialized health tourism hub",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HC"
+    },
+    {
+        "Initiative code": "HC.1.2",
+        "Initiative name": "Foster integrated planning and private sector engagement",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HC"
+    },
+    {
+        "Initiative code": "HC.1.3",
+        "Initiative name": "Implement the medicine security strategy and explore investment options in biotechnology industry and precision medicine",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HC"
+    },
+    {
+        "Initiative code": "HE.1.1",
+        "Initiative name": "Enhance healthcare literacy to improve understanding among the entire population",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.10",
+        "Initiative name": "Improve the environmental health, food safety & antimicrobial resistance",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.2",
+        "Initiative name": "Establish and promote a holistic well-being program to encourage lifelong healthy habits",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.3",
+        "Initiative name": "Establish partnerships focused on preventive health to promote wellness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.4",
+        "Initiative name": "Enhance patient self-ownership and control over the management of their health conditions",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.5",
+        "Initiative name": "Strengthen the caregiver support to provide better care for individuals",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.6",
+        "Initiative name": "Expand screening programs to cover the entire population",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.7",
+        "Initiative name": "Ensure a comprehensive vaccination coverage",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.8",
+        "Initiative name": "Enhance collaborations within and beyond the healthcare sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.1.9",
+        "Initiative name": "Strengthen the occupational health and safety in the workplaces",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.1",
+        "Initiative name": "Enhance the healthcare system integration",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.2",
+        "Initiative name": "Enhance the health of the children and adolescents",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.3",
+        "Initiative name": "Expand the healthcare delivery model to ensure the well-being of craft and manual workers",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.4",
+        "Initiative name": "Enhance the quality of life for patients with special needs by providing personalized care",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.5",
+        "Initiative name": "Improve healthcare support for ageing population",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.6",
+        "Initiative name": "Ensure reproductive wellbeing by providing comprehensive healthcare services",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.7",
+        "Initiative name": "Improve the mental health well-being through a holistic approach",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.8",
+        "Initiative name": "Enhance the detection of chronic care diseases",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.2.9",
+        "Initiative name": "Strengthen community involvement in taking care of individuals and in long-term care planning",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.1",
+        "Initiative name": "Enhance standardized quality in primary and community care",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.2",
+        "Initiative name": "Enhance non-clinical patient experience in primary & community care",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.3",
+        "Initiative name": "Enhance standardized quality in secondary and tertiary care",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.8",
+        "Initiative name": "Enhance non-clinical patient experience in secondary and tertiary care",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.4",
+        "Initiative name": "Establish Centers of Excellence to enhance healthcare quality by focusing on specialized expertise",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.5",
+        "Initiative name": "Develop digitally-enabled tools and skills to increase productivity",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.6",
+        "Initiative name": "Develop state-of-the-art data integration",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.3.7",
+        "Initiative name": "Enhance data-driven tools to improve health intelligence",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.4.1",
+        "Initiative name": "Develop sector governance and leadership framework",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.4.2",
+        "Initiative name": "Strengthen institutional capacity and capability ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.4.3",
+        "Initiative name": "Enhance cross-sectoral collaboration with entities outside the healthcare sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.4.4",
+        "Initiative name": "Ensure operational readiness and governance for national emergencies",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.4.5",
+        "Initiative name": "Ensure surveillance and monitoring of the healthcare threats",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.5.1",
+        "Initiative name": "Enhance the financial optimization of the Healthcare system",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.5.2",
+        "Initiative name": "Develop strategic health system financial planning to ensure sustainable funding",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.6.1",
+        "Initiative name": "Enhance the workforce planning and recruitment effectiveness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.6.2",
+        "Initiative name": "Develop frameworks for workforce upskilling and career development",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.6.3",
+        "Initiative name": "Improve the workforce wellbeing and satisfaction",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.6.4",
+        "Initiative name": "Develop a workforce strategy and policy roadmap",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.7.1",
+        "Initiative name": "Develop systems to assess healthcare demand and management",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.8.1",
+        "Initiative name": "Empower patient wellbeing with digital tools",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.8.2",
+        "Initiative name": "Enhance the clinical quality with digital tools",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.8.3",
+        "Initiative name": "Develop and implement a national research and innovation agenda",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.8.4",
+        "Initiative name": "Develop and implement an innovation ecosystem",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "HE.8.5",
+        "Initiative name": "Implement systems to effectively translate innovation into the health system",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoPH",
+        "Sector": "HE"
+    },
+    {
+        "Initiative code": "IC.1.1",
+        "Initiative name": "Enhance Qatar’s positive image and enhance international understanding of its civilization",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoFA",
+        "Sector": "IC"
+    },
+    {
+        "Initiative code": "IC.1.2",
+        "Initiative name": "Enhance media and communication planning and emergency press responsiveness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "IMO",
+        "Sector": "IC"
+    },
+    {
+        "Initiative code": "IC.2.1",
+        "Initiative name": "Review the aid delivery model",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoFA",
+        "Sector": "IC"
+    },
+    {
+        "Initiative code": "IC.2.2",
+        "Initiative name": "Improve the aid quality",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoFA",
+        "Sector": "IC"
+    },
+    {
+        "Initiative code": "IC.3.1",
+        "Initiative name": "Strengthen Qatar’s model of international solidarity",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoFA",
+        "Sector": "IC"
+    },
+    {
+        "Initiative code": "IC.4.1",
+        "Initiative name": "Establish a comprehensive and systematic mechanism for building and developing partnerships",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoFA",
+        "Sector": "IC"
+    },
+    {
+        "Initiative code": "IE.1.1",
+        "Initiative name": "Transform the design and delivery of government services by strengthening and targeting central capabilities",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "CGB",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IE.1.2",
+        "Initiative name": "Design and launch centralized performance tracking and monitoring systems for government services",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IE.2.1",
+        "Initiative name": "Align the govt superstructure and entity-level org structure to NDS3 priorities and spearhead its delivery through a focused implementation program",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "NPC",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IE.2.2",
+        "Initiative name": "Strengthen the center of govt with clear allocation and distribution of functional accountabilities across entities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "NPC",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IE.2.3",
+        "Initiative name": "Strengthen policymaking functions within gov't entities and drive cross-policy collaboration",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "NPC",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IE.3.1",
+        "Initiative name": "Enhance capabilities, governance and operating models of independent oversight bodies to ensure stronger outcome focus and accountability",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IE.3.2",
+        "Initiative name": "Grant easy and simple access to public government information to enhance transparency",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "NPC",
+        "Sector": "IE"
+    },
+    {
+        "Initiative code": "IN.1.1",
+        "Initiative name": "Develop the innovation ecosystem in Qatar and support it with incentives and international partnerships",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.1.3",
+        "Initiative name": "Enhance the capabilities of the public and private sectors in the piloting and early adoption of innovative solutions",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.2.1",
+        "Initiative name": "Provide scaled, focused, sustainable financial support to relevant and high-quality scientific research",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.2.2",
+        "Initiative name": "Strengthen existing and introduce new RDI talent programs aligned with national priorities by expanding education pathways and enhancing supply-demand planning",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.2.3",
+        "Initiative name": "Develop innovation capacity and industry-ready skills to strenghten linkages between education, research, and businessess",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.3.1",
+        "Initiative name": "Strengthen RDI governance through strong coordination, orchestration, prioritization of resourcing and capability development, and regulatory changes",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.3.2",
+        "Initiative name": "Establish innovation-friendly regulations and set-up a mechanism for its continued development",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "IN.3.3",
+        "Initiative name": "Expand RDI platforms to support collaboration and information sharing across all actors within the RDI ecosystem",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QRDI",
+        "Sector": "IN"
+    },
+    {
+        "Initiative code": "LS.1.5",
+        "Initiative name": "Further expand and broaden air transportation offerings and footprint in the world",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Qatar Airways",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.1.6",
+        "Initiative name": "Reinforce Qatar’s logistic infrastructure and value proposition to capture new routes and volume",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.1",
+        "Initiative name": "Create an integrated intermodal transportation value proposition through customs and connections",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.2",
+        "Initiative name": "Improve logistics national policy-making governance (and systems) to promote integrated decision-making",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.4",
+        "Initiative name": "Broaden port activities (beyond cargo) to create an integrated maritime ecosystem and increase port utilization",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Mwani",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.5",
+        "Initiative name": "Enhance port operations through operational improvements and technology to increase competitiveness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Mwani",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.6",
+        "Initiative name": "Nurture innovation environment to incentivize the use of novel technologies and business models in land transportation",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.7",
+        "Initiative name": "Create incentives for digitalization and automation of warehousing activities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.2.8",
+        "Initiative name": "Enhance logistics parks and warehousing planning; through a process, systems and governance review to decrease storage construction costs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.3.1",
+        "Initiative name": "Restructure sea and air transport regulatory framework, considering privatization, to foster competition",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.3.3",
+        "Initiative name": "Streamline regulation and procedures for warehousing building and operations and other logistics activities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.4.1",
+        "Initiative name": "Improve efficiency and effectiveness of customs clearance process",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "GAC",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "LS.4.2",
+        "Initiative name": "Deploy Global Competitiveness fund to offset high shipping rates",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QDB",
+        "Sector": "LS"
+    },
+    {
+        "Initiative code": "MF.1.3",
+        "Initiative name": "Develop differentiated advanced manufacturing clusters in Qatar (i.e., aluminum, plastic)",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoCI",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "MF.2.1",
+        "Initiative name": "Increase adoption of 4th Industrial Revolution (4IR) tools and applications.",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QDB",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "MF.3.1",
+        "Initiative name": "Streamline and reduce government-related processing time and cost",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "MF.3.2",
+        "Initiative name": "Attract and support private manufacturing investment",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "MF.4.1",
+        "Initiative name": "Promote Sustainable Manufacturing and Circular Economy Principles",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoCI",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "MF.5.2",
+        "Initiative name": "Establish a Dynamic Ecosystem for an Advanced Food And Beverage Industrial Cluster",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "IPAQ",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "MF.5.3",
+        "Initiative name": "Develop Oil and Gas support industry",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "MF"
+    },
+    {
+        "Initiative code": "NC.4.1",
+        "Initiative name": "Strengthen the enabling framework:  Enhance the governance in the cultural sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.3.2",
+        "Initiative name": "Develop our talents: Discover and nurture local cultural talents",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.1.1",
+        "Initiative name": "Strengthen pride in National Identity",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.2.1",
+        "Initiative name": "Strengthen awareness and interest in the national heritage",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.5.1",
+        "Initiative name": "Cultural Diplomacy: Support influential cultural interactions regionally and internationally",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.6.1",
+        "Initiative name": "Strengthen the governance and regulatory framework in the media field",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.4.2",
+        "Initiative name": "Encourage cultural investment: Support a sustainable cultural sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NC.7.1",
+        "Initiative name": "Support development of media production",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoC",
+        "Sector": "NC"
+    },
+    {
+        "Initiative code": "NR.11.1",
+        "Initiative name": "Increase the share of water desalinated by reverse osmosis technology to 55% or above (vs. ~30% in 2022)",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.11.2",
+        "Initiative name": "Establish partnerships (groups of excellence) to drive innovation and improvements in water sector (as per Kahramaa scope)",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.12.1",
+        "Initiative name": "Formalize and implement the Water Law and ensure establishment of robust water conservation measures",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.12.2",
+        "Initiative name": "Implement groundwater metering and protection zones to control groundwater consumption and protect groundwater quality",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.12.3",
+        "Initiative name": "Establish Integrated National Water Resources Database to collect and store water data from across all organizations and water sources",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.6.1",
+        "Initiative name": "Ensure the development of the optimized long-term supply and demand plan for the addition of new generation capacities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.7.1",
+        "Initiative name": "Ensure operational optimization of power and water supply to maximize generation efficiency",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.8.1",
+        "Initiative name": "Implementation of the renewable energy strategy, including establishing a smart grid platform",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.9.1",
+        "Initiative name": "Continue investment in water leak detection technology and equipment to quickly identify system leakages",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.9.2",
+        "Initiative name": "Conduct water balance project and further investigative study to identify measures to reduce apparent water-loss",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.9.3",
+        "Initiative name": "Complete the Phase 1 of the Aquifer Storage Recovery (ASR) project to strengthen water security",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.9.4",
+        "Initiative name": "Re-evaluate the possibility to increase the water loss reduction target and assess the associated implementation cost",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.9.5",
+        "Initiative name": "Develop and implement an integrated demand and supply management program for water resources on the country level ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Kahramaa",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "PS.1.1",
+        "Initiative name": "Develop human capabilities to increase drug control efficiency",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.1.2",
+        "Initiative name": "Raise community awareness around drug threats",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.2.1",
+        "Initiative name": "Revamp current capabilities to increase efficiency in combating cybercrimes",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.2.2",
+        "Initiative name": "Build awareness around cybercrimes at a national level",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.3.1",
+        "Initiative name": "Revamp the General Directorate of Traffic’s current capabilities and leverage modern technology to increase efficiency in reducing traffic accidents",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.3.2",
+        "Initiative name": "Raise awareness around road threats and develop road literacy",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.4.1",
+        "Initiative name": "Develop the technical and human capabilities of civil defense to increase efficiency in reducing disaster risks",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "PS.4.2",
+        "Initiative name": "Raise community awareness around fire threats and firefighting",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoI",
+        "Sector": "PS"
+    },
+    {
+        "Initiative code": "QE.1.2",
+        "Initiative name": "NudgEd: Design and launch a behavioral change program to foster desired character traits and behaviors of learners",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.1.4",
+        "Initiative name": "After the Bell: Integrate after-school and out-of-school learning",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.2.4",
+        "Initiative name": "Redefine value proposition for post-secondary education",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.3.1",
+        "Initiative name": "Improve quality of public and private education (K-12) ",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.6.1",
+        "Initiative name": "Distribute, monitor, and balance the allocation of government spending across educational segments to effectively address required capabilities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.7.1",
+        "Initiative name": "My Special Track: Enhance learning environment and expand the capacity for students with disabilities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.1.1",
+        "Initiative name": "Beyond the Books: Expand extracurricular activities, engage community in children’s learning journey and ensure wellbeing of learners",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.1.3",
+        "Initiative name": "Parents Onboard: Launch parental engagement and participation program",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.2.1",
+        "Initiative name": "Education Data Observatory: Enhance data availability, processing and analytics capabilities in education sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.2.3",
+        "Initiative name": "Employer-driven TVET: Design and launch TVET programs in collaboration with employers",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.2.5",
+        "Initiative name": "TVET Governance: Design and implement TVET governance",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.2.6",
+        "Initiative name": "Education-to-Career Journey: Expand and improve quality of career counseling in education institutions",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.3.3",
+        "Initiative name": "NextGen Curriculum: Enhance National curriculum & digitally enabled learning resources",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.4.1",
+        "Initiative name": "Sunrise: Expand KGs & nurseries capacity and increase ECE parental awareness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.5.1",
+        "Initiative name": "Modular Continuous Education: Incentivize education institutions to introduce short-term, modular training program offering in partnerships with employers",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "QE.2.2",
+        "Initiative name": "Future-ready Workforce (Supply): Ensure future skills foresight and matching supported by improved data analytics capabilities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "QE"
+    },
+    {
+        "Initiative code": "SD.1.1",
+        "Initiative name": "Family First - Family Bonds: An initiative aimed at promoting positive parenting and family cohesion",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.1.2",
+        "Initiative name": "Family First - Population Growth: Reviewing and developing family policies and the direct pro- natalist benefits",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.1.3",
+        "Initiative name": "Family First - The Marriage Institution: Encourage and support the institution of marriage",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.1.4",
+        "Initiative name": "Family first - Financial Management: Expand financial management programs and policies",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.2.1",
+        "Initiative name": "Empowered Women: Strengthening support systems to empower women culturally, religiously, socially, economically, and within the family unit",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.2.2",
+        "Initiative name": "Review and update legislation to remove obstacles, and support equity and women's empowerment",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.3.1",
+        "Initiative name": "No one Left Behind: Strengthen the capacities of institutions to identify and classify vulnerable segments",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.3.2",
+        "Initiative name": "Care and Empowerment for All - Care: Expand and strengthen service offering for vulnerable segments",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.3.3",
+        "Initiative name": "Care and Empowerment for All - Empowerment: Integrate Vulnerables in all aspects of social life",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.3.4",
+        "Initiative name": "Enhance social security benefits and regulations for vulnerable segments",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.4.1",
+        "Initiative name": "We are all Qatar: A national cross-sectoral initiative to promote and measure the sense of social cohesion of all residents",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.4.2",
+        "Initiative name": "Volunteer work: An initiative aimed at expanding the voluntary ecosystem in the country",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.4.3",
+        "Initiative name": "Responsible citizenship: Develop a civic incentive program to advance responsible citizenship and participation",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.5.1",
+        "Initiative name": "Activate the role of Civil Society Organizations: Empower civil society organizations and the private sector to provide social support for targeted groups",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.5.2",
+        "Initiative name": "Social Protection: Review and update social protection policies to motivate citizens",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.6.1",
+        "Initiative name": "Building human capital in the social and humanitarian field: Sustainable development of qualified human capital",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SD.6.2",
+        "Initiative name": "Enhance information exchange in the field of social development and family cohesion: Enhance digital capabilities and data sharing ",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MSDF",
+        "Sector": "SD"
+    },
+    {
+        "Initiative code": "SY.1.1",
+        "Initiative name": "Enhance sports and youth media outreach, and build digital platforms _x000B_to facilitate participation and awareness",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.1.2",
+        "Initiative name": "Introduce programs tailored for youth preferences and developmental needs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.2.1",
+        "Initiative name": "Introduce advanced sports and youth programs at schools and universities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoEHE",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.2.2",
+        "Initiative name": "Develop specialized sports and youth programs for PWDs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.2.3",
+        "Initiative name": "Promote Qatar's role as a host and organizer of local, regional and international sports events",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "QOC",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.2.4",
+        "Initiative name": "Optimize sports facilities master planning based on national agenda and future events",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.3.1",
+        "Initiative name": "Develop specialized sports programs for women, aligned with society’s values",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QF",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.3.2",
+        "Initiative name": "Ensure accurate tracking tools and a comprehensive support ecosystem for athletes",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.4.1",
+        "Initiative name": "Improve the quality and quantity of qualified coaches and sports and youth professionals",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "SY.4.2",
+        "Initiative name": "Enhance sector governance",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoSY",
+        "Sector": "SY"
+    },
+    {
+        "Initiative code": "TO.1.1",
+        "Initiative name": "Improve Qatar's accessibility (including borders) reliably to international visitors and enhance visa programs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QT",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.1.2",
+        "Initiative name": "Establish strong trade presence in priority markets and with key agencies",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Visit Qatar (QT)",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.1.3",
+        "Initiative name": "Boost the MICE segment",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Visit Qatar (QT)",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.1.4",
+        "Initiative name": "Leverage sport's strategy to activate and cater to specialized demand segments in the sports tourism market",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QT",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.2.1",
+        "Initiative name": "Activate a national tourism talent development and training program",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QT",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.3.1",
+        "Initiative name": "Develop and activate tourism laws & regulations to boost the attractiveness & competitiveness of the tourism sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QT",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.3.2",
+        "Initiative name": "Develop and enhance tourism assets in line with visitor needs",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "QT",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.3.3",
+        "Initiative name": "Develop world-class entertainment and events offering to attract leisure international and domestic audience",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Visit Qatar (QT)",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.3.4",
+        "Initiative name": "Enhance Service Excellence, develop new tourism packages and services and enhance existing ones",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QT",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.4.1",
+        "Initiative name": "Develop and execute comprehensive multi-channel communication strategies aimed at promoting destination",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Visit Qatar (QT)",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "TO.4.2",
+        "Initiative name": "Build a world-class digital ecosystem",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "Visit Qatar (QT)",
+        "Sector": "TO"
+    },
+    {
+        "Initiative code": "UP.1.1",
+        "Initiative name": "Develop a mobility network that accelerates the shift towards more public and sustainable transportation",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoT",
+        "Sector": "UP"
+    },
+    {
+        "Initiative code": "UP.1.2",
+        "Initiative name": "Enhance the urban development process to ensure an optimal built environment",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "UP"
+    },
+    {
+        "Initiative code": "UP.1.3",
+        "Initiative name": "Widen the accessibility of recreational facilities and public spaces to enhance the public realm",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoM",
+        "Sector": "UP"
+    },
+    {
+        "Initiative code": "WF.9.1",
+        "Initiative name": "[Enabler] Upgrade/develop a labor market information system (LMIS) to increase transparency and inform decision making",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.1.1",
+        "Initiative name": "Develop and implement a regionally leading workforce upskilling program targeting high-priority sectors",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.1.2",
+        "Initiative name": "Launch a national skilling program to uplift Qatar civil service's skills, competencies and capabilities (incl. digital)",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.2.1",
+        "Initiative name": "Develop policies to facilitate transition to and reintegration into the labor market of vulnerable and underrepresented segments of the workforce",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.3.1",
+        "Initiative name": "Provide stimulus to private sector companies and local workforce to increase enrolment in mid- to high-skilled positions",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.4.1",
+        "Initiative name": "Design and execute new mechanisms to optimize the size of government with new contracts models and mobility opportunities - paving the way for leaner government entities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.4.2",
+        "Initiative name": "Launch the civil service behavior change program to revamp workplace policies, fostering greater engagement and improving the employee value proposition",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.4.3",
+        "Initiative name": "Design and implement strategic government workforce plans to line-up the right pipeline of civil service talent, capabilities and competencies for future needs",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.5.1",
+        "Initiative name": "Demand - Develop a national workforce planning mechanism with a clear cross-entity governance model supported by improved data analytics capabilities",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.5.2",
+        "Initiative name": "Enhance job-matching platforms to ensure highest rate of matching between job seekers and open vacancies",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.6.1",
+        "Initiative name": "Revamp immigration policies to facilitate access to and retention of talent, including the launch of new visa categories and the streamlining of underlying processes",
+        "Transformative/ Strategic": "Transformative",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.7.1",
+        "Initiative name": "Facilitate flexible types of work contracts, to attract mid- to highly skilled workforce to the private sector",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.7.2",
+        "Initiative name": "Enhance working conditions to foster an attractive and productive working environment",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoL",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.8.1",
+        "Initiative name": "Design and launch state-of-the-art civil service performance management system to motivate excellence amongst the civil service",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.8.2",
+        "Initiative name": "Transform the civil service compensation system to attract, reward and recognize top talent through variable pay and differentiated pay-scales",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "WF.8.3",
+        "Initiative name": "Redesign occupational map of the government and career journeys",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "CGB",
+        "Sector": "WF"
+    },
+    {
+        "Initiative code": "NR.10.1",
+        "Initiative name": "Promoting Sustainable Management and Smart Use of Treated Sewage Effluent (TSE)",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "MoECC",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.1.1",
+        "Initiative name": "Complete the North Field expansion project (NFE and NFS)",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.1.2",
+        "Initiative name": "Sustain production from existing oil fields",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.1.3",
+        "Initiative name": "Mature contingent resources",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.2.1",
+        "Initiative name": "Complete Ras Laffan Petrochemicals Project, QAFCO 7, PVC production plant",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.2.2",
+        "Initiative name": "Capture synergies from downstream operations",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.3.1",
+        "Initiative name": "Complete the blue ammonia facility project",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.4.1",
+        "Initiative name": "Utilize best in class technologies/innovations",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.4.2",
+        "Initiative name": "Execute operational excellence programs and effective upgrading projects",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.4.3",
+        "Initiative name": "Maintain high facilities’ reliability",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    },
+    {
+        "Initiative code": "NR.5.1",
+        "Initiative name": "Expand Tawteen program through existing and new areas of focus",
+        "Transformative/ Strategic": "Strategic",
+        "Initiative owner": "QE",
+        "Sector": "NR"
+    }
+]
