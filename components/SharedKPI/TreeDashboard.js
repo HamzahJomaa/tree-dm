@@ -180,50 +180,57 @@ const drawLinks = useCallback(() => {
   if (!canvas || !container) return;
 
   const ctx = canvas.getContext("2d");
-  const { scrollWidth, scrollHeight } = container;
-  canvas.width = scrollWidth;
-  canvas.height = scrollHeight;
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  if (!ctx) return;
 
-  const visibleLinks = links.filter(
-    (l) => positions[l.from] && positions[l.to]
-  );
+  const { scrollWidth, scrollHeight } = container;
+  const dpr = window.devicePixelRatio || 1;
+
+  // --- scale canvas for crisp lines ---
+  canvas.width = scrollWidth * dpr;
+  canvas.height = scrollHeight * dpr;
+  canvas.style.width = `${scrollWidth}px`;
+  canvas.style.height = `${scrollHeight}px`;
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  ctx.clearRect(0, 0, scrollWidth, scrollHeight);
+
+  const visibleLinks = links.filter(l => positions[l.from] && positions[l.to]);
   if (!visibleLinks.length) return;
 
-  const colors = [];
-  for (let i = 0; i < visibleLinks.length; i++) {
-    const hue = Math.round((360 / visibleLinks.length) * i);
-    colors.push(`hsl(${hue}, 100%, 50%)`);
-  }
+  const colors = visibleLinks.map((_, i) =>
+    `hsl(${Math.round((360 / visibleLinks.length) * i)}, 100%, 50%)`
+  );
 
-  visibleLinks.forEach((link, index) => {
+  for (let i = 0; i < visibleLinks.length; i++) {
+    const link = visibleLinks[i];
     const from = positions[link.from];
     const to = positions[link.to];
-    if (!from || !to) return;
+    if (!from || !to) continue;
 
-    const isHighlighted =
-      !hoveredNode || link.from === hoveredNode || link.to === hoveredNode;
+    const isHighlighted = !hoveredNode || link.from === hoveredNode || link.to === hoveredNode;
+    ctx.globalAlpha = isHighlighted ? 1 : 0;
 
-    ctx.globalAlpha = isHighlighted ? 1 : 0; // 👈 fade others
     const midX = (from.x + to.x) / 2;
-    ctx.beginPath();
-    ctx.moveTo(from.x, from.y);
-    ctx.lineTo(midX, from.y);
-    ctx.lineTo(midX, to.y);
-    ctx.lineTo(to.x, to.y);
-    ctx.strokeStyle = colors[index];
     ctx.lineWidth = 2;
+    ctx.lineCap = "round";
+    ctx.lineJoin = "round";
+    ctx.beginPath();
+    ctx.moveTo(from.x + 0.5, from.y + 0.5);
+    ctx.lineTo(midX + 0.5, from.y + 0.5);
+    ctx.lineTo(midX + 0.5, to.y + 0.5);
+    ctx.lineTo(to.x + 0.5, to.y + 0.5);
+    ctx.strokeStyle = colors[i];
     ctx.stroke();
 
+    // Dots
     ctx.beginPath();
-    const dotRadius = 4;
-    ctx.arc(from.x, from.y, dotRadius, 0, Math.PI * 2);
-    ctx.arc(to.x, to.y, dotRadius, 0, Math.PI * 2);
-    ctx.fillStyle = colors[index];
+    ctx.arc(from.x, from.y, 4, 0, Math.PI * 2);
+    ctx.arc(to.x, to.y, 4, 0, Math.PI * 2);
+    ctx.fillStyle = colors[i];
     ctx.fill();
-    ctx.globalAlpha = 1; // reset for next
-  });
-}, [positions, interdependencies, links, hoveredNode]);
+  }
+
+  ctx.globalAlpha = 1;
+}, [positions, interdependencies, hoveredNode]);
 
   // Redraw links whenever node positions or expansion state changes
   useEffect(() => {
