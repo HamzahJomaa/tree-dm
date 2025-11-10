@@ -1,26 +1,24 @@
-// ControlPanel.tsx / ControlPanel.jsx
+// ControlPanel.jsx
 import * as React from "react";
 import {
   Paper, Stack, Typography, FormControl, InputLabel, Select, MenuItem,
-  Slider, Switch, TextField, FormControlLabel, Button, Box, Chip
+  Slider, Switch, TextField, FormControlLabel, Button, Box, Chip, Divider
 } from "@mui/material";
 import CenterFocusStrongIcon from "@mui/icons-material/CenterFocusStrong";
 import ReplayIcon from "@mui/icons-material/Replay";
 
 const impactColors = [
-  { label: "High", color: "red" },
-  { label: "Medium", color: "yellow" },
-  { label: "Low", color: "green" },
+  { label: "High", color: "red", text: "white" },
+  { label: "Medium", color: "yellow", text: "black" },
+  { label: "Low", color: "green", text: "white" },
 ];
 
-// add near the top of ControlPanel.jsx
 const statusColors = [
-  { label: "On track",   color: "#4CAF50" }, // green
-  { label: "Delayed",    color: "#FFC107" }, // amber
-  { label: "Completed",  color: "#2196F3" }, // blue
-  { label: "Not started",color: "#9E9E9E" }, // gray
+  { label: "On track",   color: "#4CAF50", text: "white" },
+  { label: "Delayed",    color: "#FFC107", text: "black" },
+  { label: "Completed",  color: "#2196F3", text: "white" },
+  { label: "Not started",color: "#9E9E9E", text: "white" },
 ];
-
 
 export default function ControlPanel({
   orientation,
@@ -41,10 +39,35 @@ export default function ControlPanel({
   setTransitionDuration,
   centerTree,
   resetAll,
-  outcomes,             
-selectedOutcome,      
-setSelectedOutcome
+  outcomes,
+  selectedOutcome,
+  setSelectedOutcome,
+
+  // NEW filter props
+  selectedImpacts,
+  setSelectedImpacts,
+  selectedStatuses,
+  setSelectedStatuses,
 }) {
+  // --- helpers for toggleable chips ---
+  const toggleImpact = (label) => {
+    setSelectedImpacts((prev) =>
+      prev.includes(label) ? prev.filter((x) => x !== label) : [...prev, label]
+    );
+  };
+
+  const toggleStatus = (label) => {
+    setSelectedStatuses((prev) =>
+      prev.includes(label) ? prev.filter((x) => x !== label) : [...prev, label]
+    );
+  };
+
+  const selectAllImpacts = () => setSelectedImpacts(impactColors.map((i) => i.label));
+  const clearImpacts = () => setSelectedImpacts([]);
+
+  const selectAllStatuses = () => setSelectedStatuses(statusColors.map((s) => s.label));
+  const clearStatuses = () => setSelectedStatuses([]);
+
   return (
     <Paper
       elevation={6}
@@ -53,7 +76,7 @@ setSelectedOutcome
         top: 16,
         right: 16,
         zIndex: 10,
-        width: 340,
+        width: 360,
         maxHeight: "90vh",
         overflow: "auto",
         p: 2,
@@ -88,72 +111,100 @@ setSelectedOutcome
         </Stack>
 
         {/* Outcome filter */}
-<FormControl size="small" fullWidth>
-  <InputLabel id="outcome-label">Outcome</InputLabel>
-  <Select
-    labelId="outcome-label"
-    value={selectedOutcome}
-    label="Outcome"
-    onChange={(e) => setSelectedOutcome(e.target.value)}
-  >
-    <MenuItem value="">All outcomes</MenuItem>
-    {outcomes?.map((o) => (
-      <MenuItem key={o.code} value={o.code}>
-        {o.label}
-      </MenuItem>
-    ))}
-  </Select>
-</FormControl>
-
-        {/* --- Color Legend --- */}
-        <Box>
-          <Typography variant="caption" sx={{ color: "text.secondary" }}>
-            Impact Color Legend
-          </Typography>
-          <Stack direction="row" spacing={1} flexWrap="wrap" mt={1}>
-            {impactColors.map((item) => (
-              <Chip
-                key={item.label}
-                label={item.label}
-                size="small"
-                sx={{
-                  backgroundColor: item.color,
-                  color: item.color === "yellow" ? "black" : "white",
-                  fontWeight: 600,
-                }}
-              />
+        <FormControl size="small" fullWidth>
+          <InputLabel id="outcome-label">Outcome</InputLabel>
+          <Select
+            labelId="outcome-label"
+            value={selectedOutcome}
+            label="Outcome"
+            onChange={(e) => setSelectedOutcome(e.target.value)}
+          >
+            <MenuItem value="">All outcomes</MenuItem>
+            {outcomes?.map((o) => (
+              <MenuItem key={o.code} value={o.code}>
+                {o.label}
+              </MenuItem>
             ))}
+          </Select>
+        </FormControl>
+
+        {/* --- Impact Filter (Toggleable Chips) --- */}
+        <Box>
+          <Stack direction="row" alignItems="center" justifyContent="space-between" mb={0.5}>
+            <Typography variant="caption" sx={{ color: "text.secondary" }}>
+              Impact Filter
+            </Typography>
+            <Stack direction="row" spacing={1}>
+              <Button size="small" variant="text" onClick={selectAllImpacts}>
+                Select All
+              </Button>
+              <Button size="small" variant="text" onClick={clearImpacts}>
+                Clear
+              </Button>
+            </Stack>
+          </Stack>
+          <Stack direction="row" spacing={1} flexWrap="wrap" mt={0.5}>
+            {impactColors.map((item) => {
+              const active = selectedImpacts.includes(item.label);
+              return (
+                <Chip
+                  key={item.label}
+                  label={item.label}
+                  size="small"
+                  onClick={() => toggleImpact(item.label)}
+                  variant={active ? "filled" : "outlined"}
+                  sx={{
+                    backgroundColor: active ? item.color : "transparent",
+                    color: active ? item.text : "inherit",
+                    borderColor: item.color,
+                    fontWeight: 600,
+                    mb: 1,
+                  }}
+                />
+              );
+            })}
           </Stack>
         </Box>
 
-{/* --- Project Status Legend (static like Impact) --- */}
-<Box>
-  <Typography variant="caption" sx={{ color: "text.secondary" }}>
-    Project Status Legend
-  </Typography>
-  <Stack direction="row" spacing={1} flexWrap="wrap" mt={1}>
-    {[
-      { label: "On track", color: "#4CAF50", text: "white" },
-      { label: "Delayed", color: "#FFC107", text: "black" },
-      { label: "Completed", color: "#2196F3", text: "white" },
-      { label: "Not started", color: "#9E9E9E", text: "white" },
-    ].map((item) => (
-      <Chip
-        key={item.label}
-        label={item.label}
-        size="small"
-        sx={{
-          backgroundColor: item.color,
-          color: item.text,
-          fontWeight: 600,
-          mb: 1,
-        }}
-      />
-    ))}
-  </Stack>
-</Box>
+        {/* --- Status Filter (Toggleable Chips) --- */}
+        <Box>
+          <Stack direction="row" alignItems="center" justifyContent="space-between" mb={0.5}>
+            <Typography variant="caption" sx={{ color: "text.secondary" }}>
+              Status Filter
+            </Typography>
+            <Stack direction="row" spacing={1}>
+              <Button size="small" variant="text" onClick={selectAllStatuses}>
+                Select All
+              </Button>
+              <Button size="small" variant="text" onClick={clearStatuses}>
+                Clear
+              </Button>
+            </Stack>
+          </Stack>
+          <Stack direction="row" spacing={1} flexWrap="wrap" mt={0.5}>
+            {statusColors.map((item) => {
+              const active = selectedStatuses.includes(item.label);
+              return (
+                <Chip
+                  key={item.label}
+                  label={item.label}
+                  size="small"
+                  onClick={() => toggleStatus(item.label)}
+                  variant={active ? "filled" : "outlined"}
+                  sx={{
+                    backgroundColor: active ? item.color : "transparent",
+                    color: active ? item.text : "inherit",
+                    borderColor: item.color,
+                    fontWeight: 600,
+                    mb: 1,
+                  }}
+                />
+              );
+            })}
+          </Stack>
+        </Box>
 
-
+        <Divider />
 
         {/* Orientation */}
         <FormControl size="small" fullWidth>
@@ -200,8 +251,12 @@ setSelectedOutcome
             valueLabelDisplay="auto"
           />
           <Stack direction="row" spacing={1}>
-            <Button size="small" onClick={() => setZoom((z) => Math.max(z - 0.1, 0.1))}>–</Button>
-            <Button size="small" onClick={() => setZoom((z) => Math.min(z + 0.1, 3))}>+</Button>
+            <Button size="small" onClick={() => setZoom((z) => Math.max(z - 0.1, 0.1))}>
+              –
+            </Button>
+            <Button size="small" onClick={() => setZoom((z) => Math.min(z + 0.1, 3))}>
+              +
+            </Button>
           </Stack>
         </Box>
 
