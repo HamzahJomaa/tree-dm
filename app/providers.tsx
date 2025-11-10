@@ -63,7 +63,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
 
             <ListItem disablePadding>
               <ListItemButton component={Link} href="/tree">
-                <ListItemText primary="Tree KPIs" />
+                <ListItemText primary="Tree KPI" />
               </ListItemButton>
             </ListItem>
           </List>
