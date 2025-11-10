@@ -45,7 +45,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
         >
           <Toolbar sx={{ gap: 1 }}>
             <img width={50} src="/assets/qatar-logo.png" alt="Qatar logo" />
-            <Typography variant="h5">KPI Deliverables</Typography>
+            <Typography variant="h5">KPI Outputs</Typography>
           </Toolbar>
 
           <List>
