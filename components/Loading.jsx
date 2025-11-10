@@ -2,7 +2,7 @@
 import * as React from "react";
 import { Backdrop, CircularProgress, Stack, Typography } from "@mui/material";
 
-export default function FullScreenLoader({ open, label = "Loading…" }) {
+export default function FullScreenLoader({ open = false, label = "Loading…" }) {
   return (
     <Backdrop
       open={open}
