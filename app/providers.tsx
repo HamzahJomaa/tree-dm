@@ -45,7 +45,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
         >
           <Toolbar sx={{ gap: 1 }}>
             <img width={50} src="/assets/qatar-logo.png" alt="Qatar logo" />
-            <Typography variant="h5">Shared KPIs</Typography>
+            <Typography variant="h5">KPI Deliverables</Typography>
           </Toolbar>
 
           <List>
@@ -63,7 +63,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
 
             <ListItem disablePadding>
               <ListItemButton component={Link} href="/tree">
-                <ListItemText primary="Tree KPI" />
+                <ListItemText primary="KPI tree" />
               </ListItemButton>
             </ListItem>
           </List>
