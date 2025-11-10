@@ -18,6 +18,18 @@ import Entities from "@/data/SharedKPI/logos.json";
 
 type AnyObj = Record<string, any>;
 
+
+// types shared near the component
+type Initiative = { code: string; name: string; groupby?: string };
+
+// in app/shared/page.tsx
+const toInitiative = (o: Record<string, any>): Initiative => ({
+  code: String(o.code ?? o.Code ?? o.id),      // adapt to your real keys
+  name: String(o.name ?? o.Name ?? o.title),   // adapt to your real keys
+  groupby: o.groupby ?? o.Group ?? o.category, // optional
+});
+
+
 function transformData(data: AnyObj[]): AnyObj[] {
   return data.map((item) => ({
     ...item,
@@ -166,7 +178,7 @@ export default function TreeApp() {
                 placeholder="Select Sectors"
                 onChange={handleChange}
                 groupby={false}
-                initiatives={Sectors}
+                initiatives={Sectors.map(toInitiative)} 
               />
             )}
           </Grid>

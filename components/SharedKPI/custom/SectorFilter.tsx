@@ -23,6 +23,13 @@ type Props = {
   placeholder?: string;
 };
 
+// helper: compute first letter without storing it on the option
+const fl = (opt: Initiative, useGroup: boolean) => {
+  const base = useGroup ? (opt.groupby ?? opt.name) : opt.name;
+  const c = base?.[0]?.toUpperCase() ?? '#';
+  return /\d/.test(c) ? '0-9' : c;
+};
+
 export default function SectorFilter({
   limitTags = 2,
   _selected = [],
@@ -35,14 +42,14 @@ export default function SectorFilter({
   const [selected, setSelected] = React.useState<Initiative[]>(_selected);
 
   // Build options with safe firstLetter/grouping
-  const options = React.useMemo(() => {
-    return (initiatives || []).map((option) => {
-      const base = groupby ? option.groupby ?? option.name ?? '' : option.name ?? '';
-      const firstLetterRaw = (base[0] || '').toUpperCase();
-      const firstLetter = /[0-9]/.test(firstLetterRaw) ? '0-9' : (firstLetterRaw || '#');
-      return { firstLetter, ...option };
-    });
-  }, [initiatives, groupby]);
+// options are Initiative[], no extra fields
+const options = React.useMemo<Initiative[]>(() => {
+  return (initiatives || []).map((o) => ({
+    code: o.code,
+    name: o.name,
+    groupby: o.groupby,
+  }));
+}, [initiatives]);
 
   // Keep a quick lookup by code
   const byCode = React.useMemo(() => {
