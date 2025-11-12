@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server";
+// Share one source of truth for both the page and API.
 import categoriesJson from "@/data/Timeline/records_basic.json";
 import rawSeriesJson from "@/data/Timeline/records_with_dates.json";
 
@@ -6,17 +6,14 @@ type Category = { id: string; name: string };
 type Task = { id: string; name: string; start: number; duration: number | string };
 
 const categories: Category[] = categoriesJson as Category[];
-const categoryIds = new Set(categories.map(c => c.id));
+const rawSeries: Task[] = rawSeriesJson as Task[];
 
-const series = (rawSeriesJson as Task[])
+const categoryIds = new Set(categories.map(c => c.id));
+const series = rawSeries
   .map(t => ({ ...t, duration: Number(t.duration ?? 0) }))
   .filter(t => categoryIds.has(t.id));
 
-export async function GET() {
-  try {
-    return NextResponse.json({ categories, series }, { status: 200 });
-  } catch (err) {
-    console.error("[/api/timeline] error:", err);
-    return NextResponse.json({ error: "Failed to load timeline data" }, { status: 500 });
-  }
+export function getTimelineData() {
+  // Pure, synchronous, no I/O per request.
+  return { categories, series };
 }

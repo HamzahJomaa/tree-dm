@@ -1,41 +1,38 @@
-// app/timeline/page.tsx
-import dynamic from "next/dynamic";
-import { headers } from "next/headers";
+"use client";
+import { useEffect, useState } from "react";
 import GanttChart from "@/components/GanttChart";
-
 
 type Category = { id: string; name: string };
 type Task = { id: string; name: string; start: number; duration: number | string };
 type ApiResponse = { categories: Category[]; series: Task[] };
 
-async function getTimelineFromRoute(): Promise<ApiResponse> {
-  const hdrs = await headers();
-  const host = hdrs.get("x-forwarded-host") ?? hdrs.get("host");
-  const proto = hdrs.get("x-forwarded-proto") ?? "http";
-  if (!host) throw new Error("Cannot determine host for API call");
+export default function TimelinePage() {
+  const [data, setData] = useState<ApiResponse | null>(null);
+  const [err, setErr] = useState<string | null>(null);
 
-  const origin = `${proto}://${host}`;
-  const res = await fetch(`${origin}/api/timeline`, {
-    // Ensure you always get fresh data (no ISR caching)
-    cache: "no-store",
-  });
+  useEffect(() => {
+    let mounted = true;
+    (async () => {
+      try {
+        const res = await fetch("/api/timeline", { cache: "no-store" });
+        if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+        const json: ApiResponse = await res.json();
+        const series = json.series.map(t => ({ ...t, duration: Number(t.duration ?? 0) }));
+        if (mounted) setData({ categories: json.categories, series });
+      } catch (e: any) {
+        if (mounted) setErr(e.message ?? "Failed to load timeline");
+      }
+    })();
+    return () => { mounted = false; };
+  }, []);
 
-  if (!res.ok) {
-    throw new Error(`Failed to fetch /api/timeline: ${res.status} ${res.statusText}`);
-  }
-  return res.json();
-}
-
-export default async function TimelinePage() {
-  const { categories, series } = await getTimelineFromRoute();
-
-  // Normalize duration to number (in case JSON has strings)
-  const seriesData = series.map((t) => ({ ...t, duration: Number(t.duration ?? 0) }));
+  if (err) return <main className="p-6">Error: {err}</main>;
+  if (!data) return <main className="p-6">Loading…</main>;
 
   return (
     <main className="p-6">
       <h1 className="text-2xl font-semibold mb-4">Timeline</h1>
-      <GanttChart categoryData={categories} seriesData={seriesData} height={600} />
+      <GanttChart categoryData={data.categories} seriesData={data.series} height={600} />
     </main>
   );
 }
