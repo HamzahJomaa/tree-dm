@@ -66,6 +66,12 @@ export default function Providers({ children }: { children: React.ReactNode }) {
                 <ListItemText primary="KPI tree" />
               </ListItemButton>
             </ListItem>
+
+            <ListItem disablePadding>
+              <ListItemButton component={Link} href="/timeline">
+                <ListItemText primary="Timeline" />
+              </ListItemButton>
+            </ListItem>
           </List>
         </Drawer>
 
