@@ -1,4 +1,8 @@
 [
+        {
+        "name": "SY.2.1.2- Develop training courses for physical education teachers on the essentials of coaching and talent identification",
+        "id": "gantt_1487"
+    },
     {
         "name": "EN.1.1.1- Define and realize Oil & Gas sector mitigation measures (e.g., expansion of carbon capture and storage, expansion of renewable energy, energy efficiency program)",
         "id": "gantt_613"
@@ -2062,10 +2066,6 @@
     {
         "name": "HE.2.3.2- Integrate the delivery of emergency care within and close to workplace settings to ensure timely delivery of care, and capture detailed incident reports following emergency care administration to strengthen workplace safety, in collaboration with relevant entities",
         "id": "gantt_922"
-    },
-    {
-        "name": "SY.2.1.2- Develop training courses for physical education teachers on the essentials of coaching and talent identification",
-        "id": "gantt_1487"
     },
     {
         "name": "DI.2.4.1- Develop National strategy for other emerging technologies",

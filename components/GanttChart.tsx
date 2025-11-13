@@ -14,9 +14,9 @@ type Task = {
 type RawTask = {
   id: string;
   name: string;
-  start?: string | null;         // from export
-  duration?: number | string | null;
-  linkTo?: string[];
+  start: number;
+  duration: number | string;
+  coTo?: string[]; // 👈 add this (array of ids like "gantt_622")
 };
 const DAY_MS = 24 * 60 * 60 * 1000;
 
