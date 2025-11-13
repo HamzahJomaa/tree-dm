@@ -43,7 +43,8 @@ export default function GanttChart({
       // Bind your data (ids must match between axis categories and series items)
       gantt.yAxis.data.setAll(categoryData);
       gantt.series.data.setAll(dataWithEnd);
-
+      gantt.editButton.set("visible", false);
+      gantt.set("editable", false);
       gantt.appear();
     })();
 
