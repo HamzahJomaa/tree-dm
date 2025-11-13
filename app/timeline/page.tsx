@@ -59,7 +59,7 @@ export default function TimelinePage() {
 
   return (
     <main className="p-6">
-      <h1 className="text-2xl font-semibold mb-4">Timeline</h1>
+      <h1 className="text-2xl font-semibold mb-4">NDS3 roadmap</h1>
 
       <GanttChart
         categoryData={data.categories}
