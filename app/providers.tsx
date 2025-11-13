@@ -49,7 +49,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
           </Toolbar>
 
           <List>
-            <ListItem disablePadding>
+            {/* <ListItem disablePadding>
               <ListItemButton component={Link} href="/">
                 <ListItemText primary="Home" />
               </ListItemButton>
@@ -65,11 +65,11 @@ export default function Providers({ children }: { children: React.ReactNode }) {
               <ListItemButton component={Link} href="/tree">
                 <ListItemText primary="KPI tree" />
               </ListItemButton>
-            </ListItem>
+            </ListItem> */}
 
             <ListItem disablePadding>
               <ListItemButton component={Link} href="/timeline">
-                <ListItemText primary="Timeline" />
+                <ListItemText primary="NDS3 roadmap" />
               </ListItemButton>
             </ListItem>
           </List>
