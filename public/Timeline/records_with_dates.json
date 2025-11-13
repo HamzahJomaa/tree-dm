@@ -1,0 +1,65 @@
+[
+    {
+        "name": "BE.2.5.1",
+        "id": "gantt_472",
+        "start": 1711843200000,
+        "end": 1893369600000,
+        "duration": 1502.0,
+        "linkTo": [],
+        "coTo": []
+    },
+    {
+        "name": "BE.1.1.4",
+        "id": "gantt_456",
+        "start": 1735689600000,
+        "end": 1798675200000,
+        "duration": 522.0,
+        "linkTo": [
+            "gantt_1080",
+            "gantt_458",
+            "gantt_466.0",
+            "gantt_467.0",
+            "gantt_472"
+        ],
+        "coTo": [
+            "gantt_466.0",
+            "gantt_467.0"
+        ]
+    },
+    {
+        "name": "IE.2.1.1",
+        "id": "gantt_1080",
+        "start": 1751328000000,
+        "end": 1774828800000,
+        "duration": 195.0,
+        "linkTo": [],
+        "coTo": []
+    },
+    {
+        "name": "BE.1.4.5",
+        "id": "gantt_466",
+        "start": 1769904000000,
+        "end": 1832889600000,
+        "duration": 522.0,
+        "linkTo": [],
+        "coTo": []
+    },
+    {
+        "name": "BE.1.4.6",
+        "id": "gantt_467",
+        "start": 1775001600000,
+        "end": 1838246400000,
+        "duration": 523.0,
+        "linkTo": [],
+        "coTo": []
+    },
+    {
+        "name": "BE.1.1.7",
+        "id": "gantt_458",
+        "start": 1782864000000,
+        "end": 1803859200000,
+        "duration": 174.0,
+        "linkTo": [],
+        "coTo": []
+    }
+]
