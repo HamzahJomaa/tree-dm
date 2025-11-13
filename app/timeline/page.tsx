@@ -24,18 +24,21 @@ type Task = {
   duration: number | string;
   coTo?: string[];
 };
+
+
 type ApiResponse = { categories: Category[]; series: Task[] };
+
 
 export default function TimelinePage() {
   const [data, setData] = useState<ApiResponse | null>(null);
   const [err, setErr] = useState<string | null>(null);
 
   const [open, setOpen] = useState(false);
-  const [selected, setSelected] = useState<(Task & { end: number }) | null>(null);
+  const [selected, setSelected] = useState<(Task & { end_date: number }) | null>(null);
 
   useEffect(() => {
     let mounted = true;
-
+    document.title = "NDS3 Masterplan";
     (async () => {
       try {
         // 👇 static JSON served from /public/data/timeline.json
@@ -59,19 +62,19 @@ export default function TimelinePage() {
 
   return (
     <main className="p-6">
-      <h1 className="text-2xl font-semibold mb-4">NDS3 roadmap</h1>
+      {/* <h1 className="text-2xl font-semibold mb-4">NDS3 roadmap</h1> */}
 
       <GanttChart
         categoryData={data.categories}
         seriesData={data.series}
         height={600}
         onBarClick={(task) => {
-          setSelected(task as Task & { end: number });
+          setSelected(task as Task & { end_date: number });
           setOpen(true);
         }}
       />
 
-      <Dialog open={open} onClose={() => setOpen(false)} fullWidth maxWidth="sm">
+      <Dialog open={open} onClose={() => setOpen(false)} fullWidth maxWidth="md">
         <DialogTitle>Task details</DialogTitle>
         <DialogContent dividers>
           {selected && (
@@ -79,30 +82,39 @@ export default function TimelinePage() {
               <div>
                 <b>Name:</b> {selected.name}
               </div>
-              <div>
-                <b>ID:</b> {selected.id}
-              </div>
+
               <div>
                 <b>Duration:</b> {selected.duration} days
               </div>
               <div>
-                <b>Start:</b>{" "}
-                {new Date(Number(selected.start)).toLocaleString()}
+                <b>Start Date:</b>{" "}
+                {new Date(Number(selected.start)).toLocaleDateString("en-GB", {
+  day: "2-digit",
+  month: "short",
+  year: "numeric",
+})}
               </div>
-
+              <div>
+                <b>End Date:</b>{" "}
+                {new Date(Number(selected.end_date)).toLocaleDateString("en-GB", {
+  day: "2-digit",
+  month: "short",
+  year: "numeric",
+})}
+              </div>
               {selected.coTo && selected.coTo.length > 0 && (
                 <>
                   <Typography variant="h6" sx={{ mt: 3, mb: 1 }}>
-                    Corequisites (coTo)
+                    Co-requisites
                   </Typography>
                   <Table size="small">
                     <TableHead>
                       <TableRow>
                         <TableCell>
-                          <b>ID</b>
+                          <b>Code</b>
                         </TableCell>
                         <TableCell>
-                          <b>Name</b>
+                          <b>Project</b>
                         </TableCell>
                       </TableRow>
                     </TableHead>
@@ -111,9 +123,9 @@ export default function TimelinePage() {
                         const match = data.categories.find((c) => c.id === id);
                         return (
                           <TableRow key={id}>
-                            <TableCell>{id}</TableCell>
+                            <TableCell>{match?.name.split("-")[0]}</TableCell>
                             <TableCell>
-                              {match ? match.name : "Not found in categories"}
+                              {match ? match?.name.split("-")[1] : "Not found in categories"}
                             </TableCell>
                           </TableRow>
                         );
@@ -132,3 +144,5 @@ export default function TimelinePage() {
     </main>
   );
 }
+
+

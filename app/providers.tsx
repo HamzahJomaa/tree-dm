@@ -16,7 +16,7 @@ import {
 } from "@mui/material";
 import Link from "next/link";
 
-const drawerWidth = 240;
+const drawerWidth = 280;
 
 const theme = createTheme({
   palette: { primary: { main: "#8A1538" } },
@@ -45,7 +45,7 @@ export default function Providers({ children }: { children: React.ReactNode }) {
         >
           <Toolbar sx={{ gap: 1 }}>
             <img width={50} src="/assets/qatar-logo.png" alt="Qatar logo" />
-            <Typography variant="h5">KPI Outputs</Typography>
+            <Typography variant="h5">NDS3 Roadmap</Typography>
           </Toolbar>
 
           <List>
@@ -66,12 +66,12 @@ export default function Providers({ children }: { children: React.ReactNode }) {
                 <ListItemText primary="KPI tree" />
               </ListItemButton>
             </ListItem> */}
-
+{/* 
             <ListItem disablePadding>
               <ListItemButton component={Link} href="/timeline">
                 <ListItemText primary="NDS3 roadmap" />
               </ListItemButton>
-            </ListItem>
+            </ListItem> */}
           </List>
         </Drawer>
 

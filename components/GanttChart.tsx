@@ -29,7 +29,7 @@ export default function GanttChart({
   categoryData: Category[];
   seriesData: RawTask[];
   height?: number;
-  onBarClick?: (task: Task & { end: number }) => void; // NEW 
+  onBarClick?: (task: Task & { end_date: number }) => void; // NEW 
 }) {
   const divRef = useRef<HTMLDivElement | null>(null);
 
@@ -63,7 +63,7 @@ export default function GanttChart({
       series.columns.template.setAll({ cursorOverStyle: "pointer" });
       series.columns.template.events.on("click", (ev: any) => {
         const di = ev?.target?.dataItem;
-        const ctx = di?.dataContext as Task & { end: number } | undefined;
+        const ctx = di?.dataContext as Task & { end_date: number } | undefined;
         if (ctx && onBarClick) onBarClick(ctx);
       });
 
