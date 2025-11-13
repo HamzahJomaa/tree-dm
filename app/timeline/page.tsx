@@ -22,7 +22,7 @@ type Task = {
   name: string;
   start: number;
   duration: number | string;
-  coTo?: string[]; // 👈 add this (array of ids like "gantt_622")
+  coTo?: string[];
 };
 type ApiResponse = { categories: Category[]; series: Task[] };
 
@@ -30,23 +30,25 @@ export default function TimelinePage() {
   const [data, setData] = useState<ApiResponse | null>(null);
   const [err, setErr] = useState<string | null>(null);
 
-  // Modal state
   const [open, setOpen] = useState(false);
   const [selected, setSelected] = useState<(Task & { end: number }) | null>(null);
 
   useEffect(() => {
     let mounted = true;
+
     (async () => {
       try {
-        const res = await fetch("/api/timeline", { cache: "no-store" });
+        // 👇 static JSON served from /public/data/timeline.json
+        const res = await fetch("/data/timeline.json", { cache: "no-store" });
         if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
-        const json: ApiResponse = await res.json();
 
-        if (mounted) setData({ categories: json.categories, series: json.series });
+        const json: ApiResponse = await res.json();
+        if (mounted) setData(json);
       } catch (e: any) {
         if (mounted) setErr(e.message ?? "Failed to load timeline");
       }
     })();
+
     return () => {
       mounted = false;
     };
@@ -64,7 +66,6 @@ export default function TimelinePage() {
         seriesData={data.series}
         height={600}
         onBarClick={(task) => {
-          // task has { id, name, start, duration, end, coTo?, ... }
           setSelected(task as Task & { end: number });
           setOpen(true);
         }}
@@ -89,8 +90,6 @@ export default function TimelinePage() {
                 {new Date(Number(selected.start)).toLocaleString()}
               </div>
 
-
-              {/* 👇 CoTo table (filtered from data.categories) */}
               {selected.coTo && selected.coTo.length > 0 && (
                 <>
                   <Typography variant="h6" sx={{ mt: 3, mb: 1 }}>
@@ -99,8 +98,12 @@ export default function TimelinePage() {
                   <Table size="small">
                     <TableHead>
                       <TableRow>
-                        <TableCell><b>ID</b></TableCell>
-                        <TableCell><b>Name</b></TableCell>
+                        <TableCell>
+                          <b>ID</b>
+                        </TableCell>
+                        <TableCell>
+                          <b>Name</b>
+                        </TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
